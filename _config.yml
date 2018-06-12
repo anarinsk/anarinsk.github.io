@@ -1,6 +1,6 @@
 title: lostineconomics
-logo: /assets/img/white-rabbit.jpg
+logo: /img/white-rabbit.jpg
 description: An useless and unpurposeful blog
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
