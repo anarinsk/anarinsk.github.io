@@ -1,1 +1,6 @@
+title: lostineconomics
+logo: /assets/img/logo.png
+description: An useless and unpurposeful blog
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
