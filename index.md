@@ -8,7 +8,7 @@ lost in economics, but still haven't found what i'm looking for
 
 ## History
 
-  1. 2017XXXX Version 1 was built. 
+  1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
