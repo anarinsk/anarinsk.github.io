@@ -4,7 +4,12 @@ layout: default
 
 ## About 
 
-lost in economics, but still haven't found what i'm looking for 
+lost in economics, but still haven't found what i'm looking for. 
+
+### CV 
+
+  * [Short version](https://htmlpreview.github.io/?https://github.com/anarinsk/anarinsk.github.io/blob/master/cv/short.html)
+  * [Long version](https://htmlpreview.github.io/?https://github.com/anarinsk/anarinsk.github.io/blob/master/cv/long.html)
 
 ## History
 
