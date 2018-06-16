@@ -4,7 +4,7 @@ title: "Jun Sok Huhh"
 
 *****
 <div id = "vtight"> 
-Team Leader, I&I Division Lead </br>
+Lead, I&I Division </br>
 12 Daewangpangyo-ro 644beon-gil $\cdot$ NCSOFT $\cdot$ Seongnam Gyeonggi, South Korea 13494 </br>
 <i class="fa fa-envelope-o" aria-hidden="true"></i> [work](mailto: junsokhuhh@ncsoft.com) 
 <i class="fa fa-envelope-o" aria-hidden="true"></i> [personal](mailto: anarinsk@gmail.com) 
@@ -27,7 +27,9 @@ Thesis: An Critical Inquiry on New Institutional Economics
 
 # Employment (Industry)
 
-*NCSOFT*, Team Leader (Seongnam Gyeonggi $\cdot$ South Korea) 2014--present 
+*NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi $\cdot$ South Korea) 2018.03--present 
+
+*NCSOFT*, Lead, R&I Team (Seongnam Gyeonggi $\cdot$ South Korea) 2014--2018.03
 
 *KISDI* \*, Senior Researcher (Jinchun Chungchungbuk $\cdot$ South Korea) 2013--2014 </br> 
 *Korea Information Society Development Institute
