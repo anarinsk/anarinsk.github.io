@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## About 
-
-lost in economics, but still haven't found what i'm looking for. 
+**Jun Sok Huhh** lost in economics but still haven't found what i'm looking for. 
+PhD in Economics 
 
 ### CV 
 [Short](https://htmlpreview.github.io/?https://github.com/anarinsk/anarinsk.github.io/blob/master/cv/short.html)
