@@ -6,13 +6,12 @@ title: "Jun Sok Huhh"
 <div id = "vtight"> 
 Lead, I&I Division </br>
 12 Daewangpangyo-ro 644beon-gil $\cdot$ NCSOFT $\cdot$ Seongnam Gyeonggi, South Korea 13494 </br>
-<i class="fa fa-envelope-o" aria-hidden="true"></i> [work](mailto: junsokhuhh@ncsoft.com) 
-<i class="fa fa-envelope-o" aria-hidden="true"></i> [personal](mailto: anarinsk@gmail.com) 
-<i class="fa fa-github" aria-hidden="true"></i> [personal](https://github.com/anarinsk) 
-<i class="fa fa-home" aria-hidden="true"></i> [personal](http://lostineconomics.com) 
+[mail4work](mailto: junsokhuhh@ncsoft.com) $\cdot$
+[mail4personal](mailto: anarinsk@gmail.com) $\cdot$
+[github](https://github.com/anarinsk) $\cdot$
+[blog](http://lostineconomics.com) 
 &vert; updated: November 18, 2017 </br>
 </div>
-
 ******
 
 # Education
