@@ -8,9 +8,9 @@ PhD in Economics
 
 
 ### CV 
-[Short](https://rawgit.com/anarinsk/master/cv/short.html)
+[Short](https://rawgit.com/anarinsk/anarinsk.github.io/master/cv/short.html)
 / 
-[Long](https://rawgit.com/anarinsk/master/cv/long.html)
+[Long](https://rawgit.com/anarinsk/anarinsk.github.io/master/cv/long.html)
 
 ### Contact 
 [email](mailto:anarinsk@gmail.com)
