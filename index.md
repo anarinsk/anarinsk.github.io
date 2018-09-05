@@ -21,6 +21,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20180905 [R with Jupyter](https://github.com/anarinsk/public_writing/blob/master/jupyter_r/main.md)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://rawgit.com/anarinsk/public_writing/master/head-of-r/2018-08-14-head-of-r.html)
