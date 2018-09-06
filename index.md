@@ -21,6 +21,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20180905 [Documentation workflow with github](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/workflow_with_github/main.html)
   * 20180905 [R with Jupyter](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/jupyter_r/main.html)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
