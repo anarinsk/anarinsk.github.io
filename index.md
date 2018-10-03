@@ -34,7 +34,7 @@ PhD in Economics
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMwNDc5OTgsOTY0ODk1ODMwLDEyMz
-MwNDk2MCwtMTY3MDgzOTQ0OSwtMjg0NDczMDAzLC0xNjY5NDQy
-ODkxXX0=
+eyJoaXN0b3J5IjpbLTQ2MDk0OTAxMSwtMTQxMzA0Nzk5OCw5Nj
+Q4OTU4MzAsMTIzMzA0OTYwLC0xNjcwODM5NDQ5LC0yODQ0NzMw
+MDMsLTE2Njk0NDI4OTFdfQ==
 -->
