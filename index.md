@@ -21,8 +21,8 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
-  * 20181002 [p-hacking](https://github.com/anarinsk/public_writing/blob/master/p_hacking/p_hacking.md)
-  * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://github.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.md)
+  * 20181002 [p-hacking](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/p_hacking/p_hacking.html)
+  * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.html)
   * 20180917 [Weighing Problem of Bachet de Méziriac ](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/bachet_scale/main.html)
   * 20180905 [Writing on Github](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/workflow_with_github/main.html)
   * 20180905 [R with Jupyter](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/jupyter_r/main.html)
@@ -32,6 +32,7 @@ PhD in Economics
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://rawgit.com/anarinsk/public_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0MTMwNDc5OTgsOTY0ODk1ODMwLDEyMz
 MwNDk2MCwtMTY3MDgzOTQ0OSwtMjg0NDczMDAzLC0xNjY5NDQy
