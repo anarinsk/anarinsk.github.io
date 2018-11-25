@@ -21,7 +21,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
-  * 20181124 [Entropy in information theory](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/entropy/Entropy.html)
+  * 20181124 [Shannon's entropy](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/entropy/Entropy.html)
   * 20181002 [p-hacking](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/p_hacking/phacking.html)
   * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.html)
   * 20180917 [Weighing Problem of Bachet de Méziriac ](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/bachet_scale/main.html)
