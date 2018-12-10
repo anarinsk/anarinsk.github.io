@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20181210 [Causality part 1](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/causality/causality_part1.html)
   * 20181125 [Using Python with Visual Studio Code](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/conda_vsc/conda_vsc.html)
   * 20181124 [Shannon's entropy](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/entropy/Entropy.html)
   * 20181002 [p-hacking](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/p_hacking/phacking.html)
