@@ -33,8 +33,8 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
-  * 20181210 [Causality part 1](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/causality/causality_part1.html)
-  * 20181125 [Using Python with Visual Studio Code](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/conda_vsc/conda_vsc.html)
+  * 20181210 [Causality part 1](https://rawcdn.githack.com/anarinsk/public_writing/master/master/causality/causality_part1.html)
+  * 20181125 [Using Python with Visual Studio Code](https://rawcdn.githack.com/anarinsk/public_writing/master/conda_vsc/conda_vsc.html)
   * 20181124 [Shannon's entropy](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/entropy/Entropy.html)
   * 20181002 [p-hacking](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/p_hacking/phacking.html)
   * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.html)
