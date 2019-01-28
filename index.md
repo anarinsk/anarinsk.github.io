@@ -22,7 +22,7 @@ PhD in Economics
 ### CV 
 [Short](https://rawgit.com/anarinsk/anarinsk.github.io/master/cv/short.html)
 / 
-[Long](h.com/anarinsk/anarinsk.github.io/master/cv/long.html)
+[Long](https://rawgit.com/anarinsk/anarinsk.github.io/master/cv/long.html)
 
 ### Contact 
 [email](mailto:anarinsk@gmail.com)
@@ -36,20 +36,21 @@ PhD in Economics
   * 20181210 [Causality part 1](https://rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
   * 20181125 [Using Python with Visual Studio Code](https://rawcdn.githack.com/anarinsk/public_writing/master/conda_vsc/conda_vsc.html)
   * 20181124 [Shannon's entropy](https://rawcdn.githack.com/anarinsk/public_writing/master/entropy/Entropy.html)
-  * 201810 [phacking](h002 [p-hacking](https://ttps://rawcdn.githackub.com/anarinsk/public_writing/master/p_hacking/phacking.html)
-  * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://rawcdn.gitrw.githubm/anarinsk/public_writing/master/dollars_sense/Ariely_money_1.html)
-  * 20180917 [Weighing Problem of Bachet de Méziriac ](https://rawcdn.githackgith.com/anarinsk/public_writing/master/bachet_scale/main.html)
-  * 20180905 [Writing on Github](https://rawcdn..com/anarinsk/public_writing/master/workflow_with_github/main.html)
-  * 20180905 [R with Jupyter](https://rawcdn.githackrw.gith.com/anarinsk/public_writing/master/jupyter_r/main.html)
-  * 20180904 [천분위 조세자료 (심상정 의원)](h.com/anarinsk/simsangjung/blob/master/README.md)
-  * 20180822 [선관위 정당 보조금 내역 분석](h.com/anarinsk/korparty_subsidy/blob/master/README.md)
+  * 201810 [phacking](h002 [p-hacking](https://ttps://rawcdn.002 [p-hacking](https://htmlpreview.github.io/?https://githackub.com/anarinsk/public_writing/blob/master/p_hacking/phacking.html)
+  * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://rawcdn.gitrw.htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.html)
+  * 20180917 [Weighing Problem of Bachet de Méziriac ](https://rawcdn.githackhtmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/bachet_scale/main.html)
+  * 20180905 [Writing on Github](https://rawcdn.htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/workflow_with_github/main.html)
+  * 20180905 [R with Jupyter](https://rawcdn.githackrw.htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/jupyter_r/main.html)
+  * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
+  * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://rawgit.com/anarinsk/public_writing/master/head-of-r/2018-08-14-head-of-r.html)
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://rawgit.com/anarinsk/public_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzM4NjAxOCwyNDUyNzU1LC00NjA5ND
-kwMTEsLTE0MTMwNDc5OTgsOTY0ODk1ODMwLDEyMzMwNDk2MCwt
-MTY3MDgzOTQ0OSwtMjg0NDczMDAzLC0xNjY5NDQyODkxXX0=
+eyJoaXN0b3J5IjpbNzc4Nzk5ODk2LDExNjMzODYwMTgsMjQ1Mj
+c1NSwtNDYwOTQ5MDExLC0xNDEzMDQ3OTk4LDk2NDg5NTgzMCwx
+MjMzMDQ5NjAsLTE2NzA4Mzk0NDksLTI4NDQ3MzAwMywtMTY2OT
+Q0Mjg5MV19
 -->
