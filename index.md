@@ -33,7 +33,8 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
-  * 20190220 [One-shoe Econ: 인과관계 이렇게 봅니다!](https://brunch.co.kr/@anarinsk/12)
+  * 20190226 [One-shot Econ: 아이와 가족의 행복](https://brunch.co.kr/@anarinsk/13)
+  * 20190220 [One-shot Econ: 인과관계 이렇게 봅니다!](https://brunch.co.kr/@anarinsk/12)
   * 20190217 [One-shot Econ: 백신 접종이 왜 필요한가](https://brunch.co.kr/@anarinsk/10)
   * 20190214 [One-shot Econ: 푸드스탬프의 경제학](https://brunch.co.kr/@anarinsk/9)
   * 20181210 [Causality part 1](https://rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
