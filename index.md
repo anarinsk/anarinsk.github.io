@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction-public)
   * 20190326 [Analysis of the Adoption and Playing on STEAM](https://anarinsk.github.io/adp-steam-record/)
   * 20190318 [One-shot Econ: 친구의 역설](https://brunch.co.kr/@anarinsk/17)
   * 20190315 [One-shot Econ: 인센티브를 실증하다](https://brunch.co.kr/@anarinsk/16)
