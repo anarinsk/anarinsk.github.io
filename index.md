@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190417 [One-shot Econ: 세계적 불평등의 시각화](https://brunch.co.kr/@anarinsk/21)
   * 20190416 [남한의 산불 (2003 -- 2018)](https://anarinsk.github.io/adp-wild-fire-sk-pub)
   * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction-public)
   * 20190326 [Analysis of the Adoption and Playing on STEAM](https://anarinsk.github.io/adp-steam-record/)
