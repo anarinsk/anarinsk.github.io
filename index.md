@@ -58,6 +58,6 @@ PhD in Economics
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzOTc1NTUwLC0xMTA0NzEzNTEyLC0yOT
-kxMzY5NjIsMjAzMDkyNzY1NV19
+eyJoaXN0b3J5IjpbLTEzNjAzODQxOTIsNDEzOTc1NTUwLC0xMT
+A0NzEzNTEyLC0yOTkxMzY5NjIsMjAzMDkyNzY1NV19
 -->
