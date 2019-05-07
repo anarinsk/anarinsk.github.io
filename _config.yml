@@ -4,3 +4,5 @@ description: A useless and unpurposeful blog
 show_downloads: false
 theme: jekyll-theme-minimal
 google_analytics_id: UA-121062878-1
+plugins:
+  - jekyll-seo-tag
