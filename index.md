@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190509 [Onee-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://rawcdn.githack.com/anarinsk/public_writing/master/svm/Mathematics%20of%20SVM.html)
   * 20190417 [One-shot Econ: 세계적 불평등의 시각화](https://brunch.co.kr/@anarinsk/21)
   * 20190416 [남한의 산불 (2003 -- 2018)](https://anarinsk.github.io/adp-wild-fire-sk-pub)
