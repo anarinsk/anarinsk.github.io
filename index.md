@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190517 [Math behind PCA](https://rawcdn.githack.com/anarinsk/public_writing/master/master/math-behind-pca/Math%20behind%20PCA.html)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://rawcdn.githack.com/anarinsk/public_writing/master/svm/Mathematics%20of%20SVM.html)
