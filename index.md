@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190713 [Poisson from Binomial](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/poisson/Poisson%20distribution.html)
   * 20190517 [Math behind PCA](https://rawcdn.githack.com/anarinsk/public_writing/master/math-behind-pca/Math%20behind%20PCA.html)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
