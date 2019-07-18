@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190718 [Dot product](https://rawcdn.githack.com/anarinsk/public_writing/master/dot_product/understanding%20dot%20product.html)
   * 20190713 [Poisson from Binomial](https://rawcdn.githack.com/anarinsk/public_writing/master/poisson/Poisson%20distribution.html)
   * 20190517 [Math behind PCA](https://rawcdn.githack.com/anarinsk/public_writing/master/math-behind-pca/Math%20behind%20PCA.html)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
