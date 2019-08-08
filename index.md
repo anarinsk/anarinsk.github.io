@@ -33,6 +33,7 @@ PhD in Economics
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20190808 [도구 변수](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
   * 20190718 [Dot product](https://rawcdn.githack.com/anarinsk/public_writing/master/dot_product/understanding%20dot%20product.html)
   * 20190713 [Poisson from Binomial](https://rawcdn.githack.com/anarinsk/public_writing/master/poisson/Poisson%20distribution.html)
