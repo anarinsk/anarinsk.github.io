@@ -15,8 +15,8 @@ layout: default
 </header>
 
 ## About 
-**Jun Sok Huhh** lost in economics but still haven't found what i'm looking for, 
-PhD in Economics 
+**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for.
+
 
 
 ### CV 
