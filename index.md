@@ -33,6 +33,7 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+  * 20191026 [Understanding Regression](https://rawcdn.githack.com/anarinsk/public_writing/master/understanding_regression/understanding_regression.html)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
