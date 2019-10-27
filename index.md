@@ -68,8 +68,8 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjMyNDE2NCwtMTg0OTI1MzE0OSwxMT
-Q2MDM5NzU3LC0xMTg5ODg0MzI2LC0xMzYwMzg0MTkyLDQxMzk3
-NTU1MCwtMTEwNDcxMzUxMiwtMjk5MTM2OTYyLDIwMzA5Mjc2NT
-VdfQ==
+eyJoaXN0b3J5IjpbLTE5MzcyNjkwNTIsMTU4NjMyNDE2NCwtMT
+g0OTI1MzE0OSwxMTQ2MDM5NzU3LC0xMTg5ODg0MzI2LC0xMzYw
+Mzg0MTkyLDQxMzk3NTU1MCwtMTEwNDcxMzUxMiwtMjk5MTM2OT
+YyLDIwMzA5Mjc2NTVdfQ==
 -->
