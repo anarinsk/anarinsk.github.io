@@ -33,12 +33,13 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
+ * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
   * 20191026 [Understanding Regression](https://rawcdn.githack.com/anarinsk/public_writing/master/understanding_regression/understanding_regression.html)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
   * 20190718 [Dot product](https://rawcdn.githack.com/anarinsk/public_writing/master/dot_product/understanding%20dot%20product.html)
-  * 20190713 [Poisson from Binomial](https://rawcdn.githack.com/anarinsk/public_writing/master/poisson/poisson_distribution.html)
+  * 20190713 [Poisson from Binomial](https://rawcdn.githack.com/anarinsk/public_writing/master/poisson/poissondistribution.html)
   * 20190517 [Math behind PCA](https://rawcdn.githack.com/anarinsk/public_writing/master/math-behind-pca/Math%20behind%20PCA.html)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
@@ -68,8 +69,8 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcyNjkwNTIsMTU4NjMyNDE2NCwtMT
-g0OTI1MzE0OSwxMTQ2MDM5NzU3LC0xMTg5ODg0MzI2LC0xMzYw
-Mzg0MTkyLDQxMzk3NTU1MCwtMTEwNDcxMzUxMiwtMjk5MTM2OT
-YyLDIwMzA5Mjc2NTVdfQ==
+eyJoaXN0b3J5IjpbMTc1NTc1NDMzNywtMTkzNzI2OTA1MiwxNT
+g2MzI0MTY0LC0xODQ5MjUzMTQ5LDExNDYwMzk3NTcsLTExODk4
+ODQzMjYsLTEzNjAzODQxOTIsNDEzOTc1NTUwLC0xMTA0NzEzNT
+EyLC0yOTkxMzY5NjIsMjAzMDkyNzY1NV19
 -->
