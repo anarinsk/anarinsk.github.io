@@ -35,7 +35,7 @@ layout: default
 ## Updated 
  * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
-  * 20191026 [Understanding Regression](https://rawcdn.githack.com/anarinsk/public_writing/master/understanding_regression/understanding_regression.html)
+  * 20191026 [Understanding Regression](https://anarinsk.github.io/lie-regression/](https://anarinsk.github.io/lie-regression)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
@@ -70,5 +70,6 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzQ1ODU2MSw1MzY2ODc0MTVdfQ==
+eyJoaXN0b3J5IjpbMzcwOTcyNTk4LC0zNTc0NTg1NjEsNTM2Nj
+g3NDE1XX0=
 -->
