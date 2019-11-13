@@ -57,7 +57,7 @@ layout: default
   * 20190214 [One-shot Econ: 푸드스탬프의 경제학](https://brunch.co.kr/@anarinsk/9)
   * 20181210 [Causality part 1](https://rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
   * 20181125 [Using Python with Visual Studio Code](https://rawcdn.githack.com/anarinsk/public_writing/master/conda_vsc/conda_vsc.html)
-  * 20181124 [Shannon's entropy](https://rawcdn.githack.com/anarinsk/public_writing/master/entropy/Entropy.html)
+  * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/))
   * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
   * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://rawcdn.gitrw.htmlpreview.githubio/https://gith.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.htm)
   * 20180917 [Weighing Problem of Bachet de Méziriac ](https://rawcdn.githackhtmlpreview.github.io/?https://gith.com/anarinsk/public_writing/master/bachet_scale/main.html)
@@ -70,7 +70,7 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwODcxMjQsNzk2Njg5OTMzLDc3MTI2Mj
-E3NywtMjc1NzgwOTY3LC0xODIwOTA4MDYwLC02MDgwNDk5MTYs
-LTM1NzQ1ODU2MSw1MzY2ODc0MTVdfQ==
+eyJoaXN0b3J5IjpbLTQ0OTMzNTQ3Nyw3MTA4NzEyNCw3OTY2OD
+k5MzMsNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5MDgwNjAs
+LTYwODA0OTkxNiwtMzU3NDU4NTYxLDUzNjY4NzQxNV19
 -->
