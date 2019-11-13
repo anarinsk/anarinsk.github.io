@@ -41,7 +41,7 @@ layout: default
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
   * 20190713 [Poisson from Binomial](https://rawcdn.githack.com/anarinsk/public_writing/master/poisson/poissondistribution.html)
-  * 20190517 [Math behind PCA](https://rawcdn.githack.com/anarinsk/public_writing/master/math-behind-pca/Math%20behind%20PCA.html)
+  * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_svm/)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://rawcdn.githack.com/anarinsk/public_writing/master/svm/Mathematics%20of%20SVM.html)
@@ -70,6 +70,7 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTc4MDk2NywtMTgyMDkwODA2MCwtNj
-A4MDQ5OTE2LC0zNTc0NTg1NjEsNTM2Njg3NDE1XX0=
+eyJoaXN0b3J5IjpbNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4Mj
+A5MDgwNjAsLTYwODA0OTkxNiwtMzU3NDU4NTYxLDUzNjY4NzQx
+NV19
 -->
