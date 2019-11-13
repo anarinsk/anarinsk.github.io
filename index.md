@@ -60,7 +60,7 @@ layout: default
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/))
   * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
   * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://anarinsk.github.io/lie-ariely_ds/)
-  * 20180917 [Weighing Problem of Bachet de Méziriac ](https://rawcdn.githackhtmlpreview.github.io/?https://gith.com/anarinsk/public_writing/master/bachet_scale/main.html)
+  * 20180917 [Weighing Problem of Bachet de Méziriac ](https://anarinsk.github.io/lie-bachet/)
   * 20180905 [Writing on Github](https://rawcdn.htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/workflow_with_github/main.html)
   * 20180905 [R with Jupyter](https://rawcdn.githackrw.htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/jupyter_r/main.html)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
@@ -70,7 +70,8 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjA0OTcyMCw3MTA4NzEyNCw3OTY2OD
-k5MzMsNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5MDgwNjAs
-LTYwODA0OTkxNiwtMzU3NDU4NTYxLDUzNjY4NzQxNV19
+eyJoaXN0b3J5IjpbLTg3MzI4MTg2MCwxOTYyMDQ5NzIwLDcxMD
+g3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2Nywt
+MTgyMDkwODA2MCwtNjA4MDQ5OTE2LC0zNTc0NTg1NjEsNTM2Nj
+g3NDE1XX0=
 -->
