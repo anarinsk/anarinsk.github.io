@@ -33,7 +33,7 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
- * 20191114[How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
+ * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
  * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
   * 20191026 [Understanding Regression](https://anarinsk.github.io/lie-regression)
@@ -71,10 +71,10 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzIxNzc1MywtNjczMzQ4NzY1LC0xNz
-k5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0
-MjI0MSwtMTQ0OTM5OTYwMCwtMTc3OTExMzI5MiwxMTgxNjkwNT
-kxLDE5NjIwNDk3MjAsNzEwODcxMjQsNzk2Njg5OTMzLDc3MTI2
-MjE3NywtMjc1NzgwOTY3LC0xODIwOTA4MDYwLC02MDgwNDk5MT
-YsLTM1NzQ1ODU2MSw1MzY2ODc0MTVdfQ==
+eyJoaXN0b3J5IjpbOTI2MDEwNDMsLTQ4MzIxNzc1MywtNjczMz
+Q4NzY1LC0xNzk5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3
+ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYwMCwtMTc3OTExMzI5Mi
+wxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNzEwODcxMjQsNzk2Njg5
+OTMzLDc3MTI2MjE3NywtMjc1NzgwOTY3LC0xODIwOTA4MDYwLC
+02MDgwNDk5MTYsLTM1NzQ1ODU2MSw1MzY2ODc0MTVdfQ==
 -->
