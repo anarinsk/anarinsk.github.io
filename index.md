@@ -3,14 +3,15 @@ layout: default
 ---
 
 <header> 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121062878-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-121062878-1');
-</script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121062878-1"></script>
+   <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());  
+        
+    gtag('config', 'UA-121062878-1');
+   </script>
 </header>
 
 ## About 
@@ -69,9 +70,10 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDEzNTc4NiwtMTcyNzEwOTc4NCwxND
-UzNDQyMjQxLC0xNDQ5Mzk5NjAwLC0xNzc5MTEzMjkyLDExODE2
-OTA1OTEsMTk2MjA0OTcyMCw3MTA4NzEyNCw3OTY2ODk5MzMsNz
-cxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5MDgwNjAsLTYwODA0
-OTkxNiwtMzU3NDU4NTYxLDUzNjY4NzQxNV19
+eyJoaXN0b3J5IjpbLTE3OTk0Mzc0OTIsLTg5NDEzNTc4NiwtMT
+cyNzEwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5NjAwLC0xNzc5
+MTEzMjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMCw3MTA4NzEyNC
+w3OTY2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5
+MDgwNjAsLTYwODA0OTkxNiwtMzU3NDU4NTYxLDUzNjY4NzQxNV
+19
 -->
