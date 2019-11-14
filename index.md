@@ -55,7 +55,7 @@ layout: default
   * 20190220 [One-shot Econ: 인과관계 이렇게 봅니다!](https://brunch.co.kr/@anarinsk/12)
   * 20190217 [One-shot Econ: 백신 접종이 왜 필요한가](https://brunch.co.kr/@anarinsk/10)
   * 20190214 [One-shot Econ: 푸드스탬프의 경제학](https://brunch.co.kr/@anarinsk/9)
-  * 20181210 [Causality part 1](https://rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
+  * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
   * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
@@ -70,10 +70,10 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0Mzc0OTIsLTg5NDEzNTc4NiwtMT
-cyNzEwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5NjAwLC0xNzc5
-MTEzMjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMCw3MTA4NzEyNC
-w3OTY2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5
-MDgwNjAsLTYwODA0OTkxNiwtMzU3NDU4NTYxLDUzNjY4NzQxNV
-19
+eyJoaXN0b3J5IjpbLTg3NjM5MTY1LC0xNzk5NDM3NDkyLC04OT
+QxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5
+OTYwMCwtMTc3OTExMzI5MiwxMTgxNjkwNTkxLDE5NjIwNDk3Mj
+AsNzEwODcxMjQsNzk2Njg5OTMzLDc3MTI2MjE3NywtMjc1Nzgw
+OTY3LC0xODIwOTA4MDYwLC02MDgwNDk5MTYsLTM1NzQ1ODU2MS
+w1MzY2ODc0MTVdfQ==
 -->
