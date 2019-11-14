@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header> 
+<head> 
    <!-- Global site tag (gtag.js) - Google Analytics -->
    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121062878-1"></script>
    <script>
@@ -12,7 +12,7 @@ layout: default
         
     gtag('config', 'UA-121062878-1');
    </script>
-</header>
+</head>
 
 ## About 
 **Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for.
@@ -70,10 +70,10 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjM5MTY1LC0xNzk5NDM3NDkyLC04OT
-QxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5
-OTYwMCwtMTc3OTExMzI5MiwxMTgxNjkwNTkxLDE5NjIwNDk3Mj
-AsNzEwODcxMjQsNzk2Njg5OTMzLDc3MTI2MjE3NywtMjc1Nzgw
-OTY3LC0xODIwOTA4MDYwLC02MDgwNDk5MTYsLTM1NzQ1ODU2MS
-w1MzY2ODc0MTVdfQ==
+eyJoaXN0b3J5IjpbLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtOD
+k0MTM1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkz
+OTk2MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5Nz
+IwLDcxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4
+MDk2NywtMTgyMDkwODA2MCwtNjA4MDQ5OTE2LC0zNTc0NTg1Nj
+EsNTM2Njg3NDE1XX0=
 -->
