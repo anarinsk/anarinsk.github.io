@@ -15,7 +15,8 @@ layout: default
 </head>
 
 ## About 
-**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for.
+**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. Contact me via [email](mailto:anarinsk@gmail.com). 
+
 
 
 
@@ -24,8 +25,7 @@ layout: default
 / 
 [Long](https://agirinsk.github.io/master/cv/long.html)
 
-### Contact 
-[email](mailto:anarinsk@gmail.com)
+
 
 
 ## Updated 
@@ -60,7 +60,7 @@ layout: default
   * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter/)
-  * 20181001 [댄 에리얼리, "부의 감각"]()
+  * 20181001 [댄 에리얼리, "부의 감각"](https://anarinsk.github.io/lie-ariely_ds/)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/anarinskublie-headrc_writing/master/head-of-r/2018-08-14-head-of-r.html)
@@ -74,11 +74,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzk2OTQ0MCwtMzExNzY3MTQ2LDM4NT
-k5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00
-ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MT
-M1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2
-MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLD
-cxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2
-N119
+eyJoaXN0b3J5IjpbNzYzMTI5NzU5LC0zMTE3NjcxNDYsMzg1OT
+k4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2MDEwNDMsLTQ4
+MzIxNzc1MywtNjczMzQ4NzY1LC0xNzk5NDM3NDkyLC04OTQxMz
+U3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYw
+MCwtMTc3OTExMzI5MiwxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNz
+EwODcxMjQsNzk2Njg5OTMzLDc3MTI2MjE3NywtMjc1NzgwOTY3
+XX0=
 -->
