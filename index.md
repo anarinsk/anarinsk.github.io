@@ -28,7 +28,7 @@ layout: google
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
   * 20190417 [One-shot Econ: 세계적 불평등의 시각화](https://brunch.co.kr/@anarinsk/21)
   * 20190416 [남한의 산불 (2003 -- 2018)](https://anarinsk.github.io/adp-wild-fire-sk-pub)
-  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction)
+  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction-public/)
   * 20190326 [Analysis of the Adoption and Playing on STEAM](https://anarinsk.github.io/adp-steam-record/)
   * 20190318 [One-shot Econ: 친구의 역설](https://brunch.co.kr/@anarinsk/17)
   * 20190315 [One-shot Econ: 인센티브를 실증하다](https://brunch.co.kr/@anarinsk/16)
@@ -57,11 +57,11 @@ layout: google
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxODE1MzEyLC0xMzk1NTgzNTIwLC04Mz
-kxNDgxMDIsLTE5MTU5MjA3ODgsLTEzNjIzODg4OTYsLTE1NDg1
-MDY3ODEsLTI1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMjAwNzA2Nz
-UsLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5
-MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3NTMsLT
-Y3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3
-MTA5Nzg0XX0=
+eyJoaXN0b3J5IjpbMTk0NjU4MTA3OSw3ODE4MTUzMTIsLTEzOT
+U1ODM1MjAsLTgzOTE0ODEwMiwtMTkxNTkyMDc4OCwtMTM2MjM4
+ODg5NiwtMTU0ODUwNjc4MSwtMjUwODMyNDU5LDM2NTQyMTk5NS
+wtMjAyMDA3MDY3NSwtNjA0MzUzOTIxLC0zMTE3NjcxNDYsMzg1
+OTk4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2MDEwNDMsLT
+Q4MzIxNzc1MywtNjczMzQ4NzY1LC0xNzk5NDM3NDkyLC04OTQx
+MzU3ODZdfQ==
 -->
