@@ -39,7 +39,7 @@ layout: google
   * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
-  * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
+  * 20181012 [p-해킹](https://anarinsk.github.io/lie-p_hacking/)
   * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter/)
@@ -47,7 +47,7 @@ layout: google
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/)
-  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinskublic_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
+  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://htmlpreview.github.io/?https://github.com/anarinsk/public_writing/blob/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 
@@ -57,11 +57,11 @@ layout: google
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU5MjA3ODgsLTEzNjIzODg4OTYsLT
-E1NDg1MDY3ODEsLTI1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMjAw
-NzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMi
-wxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3
-NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC
-0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLTE3
-NzkxMTMyOTJdfQ==
+eyJoaXN0b3J5IjpbMTEwMjI5NjI3MiwtMTkxNTkyMDc4OCwtMT
+M2MjM4ODg5NiwtMTU0ODUwNjc4MSwtMjUwODMyNDU5LDM2NTQy
+MTk5NSwtMjAyMDA3MDY3NSwtNjA0MzUzOTIxLC0zMTE3NjcxND
+YsMzg1OTk4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2MDEw
+NDMsLTQ4MzIxNzc1MywtNjczMzQ4NzY1LC0xNzk5NDM3NDkyLC
+04OTQxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0
+OTM5OTYwMF19
 -->
