@@ -12,7 +12,7 @@ layout: default
   gtag('config', 'UA-121062878-1');
    </script>
    <script data-ad-client="ca-pub-5998015764378916" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</ead>
+</head>
 
 ## About 
 **Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for.
@@ -74,11 +74,11 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1OTk4MDEyLDEzMTkxNTEyOCw1MDkwNT
-k3ODQsOTI2MDEwNDMsLTQ4MzIxNzc1MywtNjczMzQ4NzY1LC0x
-Nzk5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1Mz
-Q0MjI0MSwtMTQ0OTM5OTYwMCwtMTc3OTExMzI5MiwxMTgxNjkw
-NTkxLDE5NjIwNDk3MjAsNzEwODcxMjQsNzk2Njg5OTMzLDc3MT
-I2MjE3NywtMjc1NzgwOTY3LC0xODIwOTA4MDYwLC02MDgwNDk5
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTMxMTc2NzE0NiwzODU5OTgwMTIsMTMxOT
+E1MTI4LDUwOTA1OTc4NCw5MjYwMTA0MywtNDgzMjE3NzUzLC02
+NzMzNDg3NjUsLTE3OTk0Mzc0OTIsLTg5NDEzNTc4NiwtMTcyNz
+EwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5NjAwLC0xNzc5MTEz
+MjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMCw3MTA4NzEyNCw3OT
+Y2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5MDgw
+NjBdfQ==
 -->
