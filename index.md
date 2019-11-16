@@ -45,8 +45,7 @@ layout: default
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
   * 20190417 [One-shot Econ: 세계적 불평등의 시각화](https://brunch.co.kr/@anarinsk/21)
   * 20190416 [남한의 산불 (2003 -- 2018)](https://anarinsk.github.io/adp-wild-fire-sk-pub)
-  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction-publicde](https://)
-  * 201801 [p](https://)
+  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction-publicde]
   * 20190326 [Analysis of the Adoption and Playing on STEAM](https://anarinsk.github.io/adp-steam-record/)
   * 20190318 [One-shot Econ: 친구의 역설](https://brunch.co.kr/@anarinsk/17)
   * 20190315 [One-shot Econ: 인센티브를 실증하다](https://brunch.co.kr/@anarinsk/16)
@@ -58,7 +57,6 @@ layout: default
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
   * 20181012 [p 해킹](https://anarinsk.github.io/lie-bachet/)
-  * 2018)
   * 20180905 [Writing on 
   * 20181125 [Using Python Gwithub](https://anarinsk.github.io/lie-writing_github/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter Visual Studio Code](https://)
@@ -76,11 +74,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MDM3MzExLC0zMTE3NjcxNDYsMzg1OT
-k4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2MDEwNDMsLTQ4
-MzIxNzc1MywtNjczMzQ4NzY1LC0xNzk5NDM3NDkyLC04OTQxMz
-U3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYw
-MCwtMTc3OTExMzI5MiwxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNz
-EwODcxMjQsNzk2Njg5OTMzLDc3MTI2MjE3NywtMjc1NzgwOTY3
-XX0=
+eyJoaXN0b3J5IjpbMTE1MDczMTM1OSwtMzExNzY3MTQ2LDM4NT
+k5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00
+ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MT
+M1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2
+MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLD
+cxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2
+N119
 -->
