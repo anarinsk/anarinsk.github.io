@@ -1,19 +1,6 @@
 ---
-layout: default
+layout: google
 ---
-
-<head> 
-   <!-- Global site tag (gtag.js) - Google Analytics -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121062878-1"></script>
-   <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());          
-  gtag('config', 'UA-121062878-1');
-   </script>
-   <script data-ad-client="ca-pub-5998015764378916" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</head>
-
 
 
 ## About 
@@ -70,11 +57,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMj
-AwNzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAx
-MiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMT
-c3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2
-LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLT
-E3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLDcxMDg3
-MTI0XX0=
+eyJoaXN0b3J5IjpbLTE1NDg1MDY3ODEsLTI1MDgzMjQ1OSwzNj
+U0MjE5OTUsLTIwMjAwNzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3
+MTQ2LDM4NTk5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNj
+AxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5
+MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLT
+E0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYy
+MDQ5NzIwXX0=
 -->
