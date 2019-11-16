@@ -14,6 +14,8 @@ layout: default
    <script data-ad-client="ca-pub-5998015764378916" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
+
+
 ## About 
 **Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. Contact me via [email](mailto:anarinsk@gmail.com). 
 
@@ -71,11 +73,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTUzMTA2NywtMjAyMDA3MDY3NSwtNj
-A0MzUzOTIxLC0zMTE3NjcxNDYsMzg1OTk4MDEyLDEzMTkxNTEy
-OCw1MDkwNTk3ODQsOTI2MDEwNDMsLTQ4MzIxNzc1MywtNjczMz
-Q4NzY1LC0xNzk5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3
-ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYwMCwtMTc3OTExMzI5Mi
-wxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNzEwODcxMjQsNzk2Njg5
-OTMzXX0=
+eyJoaXN0b3J5IjpbLTEyOTg1NjYzNjcsLTIwMjAwNzA2NzUsLT
+YwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5MTUx
+MjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3NTMsLTY3Mz
+M0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3MTA5
+Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLTE3NzkxMTMyOT
+IsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLDcxMDg3MTI0LDc5NjY4
+OTkzM119
 -->
