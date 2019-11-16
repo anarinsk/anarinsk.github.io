@@ -46,7 +46,7 @@ layout: google
   * 20181001 [댄 에리얼리, "부의 감각"](https://anarinsk.github.io/lie-ariely_ds/)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
-  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/anarinskublie-headrc_writing/master/head-of-r/2018-08-14-head-of-r.html)
+  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/)
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinskublic_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
@@ -57,11 +57,11 @@ layout: google
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIzODg4OTYsLTE1NDg1MDY3ODEsLT
-I1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMjAwNzA2NzUsLTYwNDM1
-MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5MTUxMjgsNT
-A5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2
-NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LD
-E0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4
-MTY5MDU5MV19
+eyJoaXN0b3J5IjpbLTE5MTU5MjA3ODgsLTEzNjIzODg4OTYsLT
+E1NDg1MDY3ODEsLTI1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMjAw
+NzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMi
+wxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3
+NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC
+0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLTE3
+NzkxMTMyOTJdfQ==
 -->
