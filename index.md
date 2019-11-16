@@ -56,8 +56,8 @@ layout: default
   * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
-  * 20181012 [p 해킹](https://anarinsk.github.io/lie-bachet/)
-  * 20180905 [Writing on 
+  * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
+  * 20180905 [Writing on Github](https://anarinsk.github.io/lie-p_hacking/)
   * 20181125 [Using Python Gwithub](https://anarinsk.github.io/lie-writing_github/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter Visual Studio Code](https://)
   * 201811 [(https://)
@@ -74,7 +74,7 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDczMTM1OSwtMzExNzY3MTQ2LDM4NT
+eyJoaXN0b3J5IjpbMTU3NjE3NzA3MSwtMzExNzY3MTQ2LDM4NT
 k5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00
 ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MT
 M1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2
