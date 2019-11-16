@@ -45,7 +45,7 @@ layout: default
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
   * 20190417 [One-shot Econ: 세계적 불평등의 시각화](https://brunch.co.kr/@anarinsk/21)
   * 20190416 [남한의 산불 (2003 -- 2018)](https://anarinsk.github.io/adp-wild-fire-sk-pub)
-  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction-publicde]
+  * 20190404 [From PDF to Visualization](https://anarinsk.github.io/rstat-pdf-extraction)
   * 20190326 [Analysis of the Adoption and Playing on STEAM](https://anarinsk.github.io/adp-steam-record/)
   * 20190318 [One-shot Econ: 친구의 역설](https://brunch.co.kr/@anarinsk/17)
   * 20190315 [One-shot Econ: 인센티브를 실증하다](https://brunch.co.kr/@anarinsk/16)
@@ -59,7 +59,7 @@ layout: default
   * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
   * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-/)
-  * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter/)
+  * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-conda_vsc/)
   * 201811
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
@@ -74,11 +74,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyNzIzMzMsLTMxMTc2NzE0NiwzOD
-U5OTgwMTIsMTMxOTE1MTI4LDUwOTA1OTc4NCw5MjYwMTA0Mywt
-NDgzMjE3NzUzLC02NzMzNDg3NjUsLTE3OTk0Mzc0OTIsLTg5ND
-EzNTc4NiwtMTcyNzEwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5
-NjAwLC0xNzc5MTEzMjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMC
-w3MTA4NzEyNCw3OTY2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5
-NjddfQ==
+eyJoaXN0b3J5IjpbMTk0NzkxMTM1OCwtMzExNzY3MTQ2LDM4NT
+k5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00
+ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MT
+M1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2
+MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLD
+cxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2
+N119
 -->
