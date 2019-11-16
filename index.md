@@ -21,9 +21,9 @@ layout: default
 
 
 ### CV 
-[Short](https://nsk/anarinsk.github.io/master/cv/short.html)
+[Short](https://anarinsk.github.io/master/cv/short.html)
 / 
-[Long](https://agirinsk.github.io/master/cv/long.html)
+[Long](https://anarinsk.github.io/master/cv/long.html)
 
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
@@ -71,11 +71,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAwNzA2NzUsLTYwNDM1MzkyMSwtMz
-ExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0
-LDkyNjAxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OT
-QzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIy
-NDEsLTE0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MS
-wxOTYyMDQ5NzIwLDcxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIx
-NzddfQ==
+eyJoaXN0b3J5IjpbLTMxOTUzMTA2NywtMjAyMDA3MDY3NSwtNj
+A0MzUzOTIxLC0zMTE3NjcxNDYsMzg1OTk4MDEyLDEzMTkxNTEy
+OCw1MDkwNTk3ODQsOTI2MDEwNDMsLTQ4MzIxNzc1MywtNjczMz
+Q4NzY1LC0xNzk5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3
+ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYwMCwtMTc3OTExMzI5Mi
+wxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNzEwODcxMjQsNzk2Njg5
+OTMzXX0=
 -->
