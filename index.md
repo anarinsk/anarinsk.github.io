@@ -18,7 +18,7 @@ layout: google
   * 20191026 [Understading Regression](https://anarinsk.github.io/lie-regression/)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DItm)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/Imatsvm/)
-  * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/.i/liemathpca/)
+  * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
   * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poison/)
   * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/)
@@ -57,11 +57,11 @@ layout: google
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg1MDY3ODEsLTI1MDgzMjQ1OSwzNj
-U0MjE5OTUsLTIwMjAwNzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3
-MTQ2LDM4NTk5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNj
-AxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5
-MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLT
-E0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYy
-MDQ5NzIwXX0=
+eyJoaXN0b3J5IjpbLTEzNjIzODg4OTYsLTE1NDg1MDY3ODEsLT
+I1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMjAwNzA2NzUsLTYwNDM1
+MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5MTUxMjgsNT
+A5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2
+NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LD
+E0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4
+MTY5MDU5MV19
 -->
