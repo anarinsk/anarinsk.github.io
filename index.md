@@ -61,9 +61,9 @@ layout: default
   * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
-  * 20181012 [p 해킹]singthon tisualdio o(https://anarinsk.github.io/lie-bachet/)
+  * 20181012 [p 해킹](https://anarinsk.github.io/lie-bachet/)
   * 2018)
-  * 20181 [ing Pthanarinskubli/licausality_10905 [Writing anarinskubli/licausality_1rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
+  * 20180905 [Writing on 
   * 20181125 [Using Python Gwithub](https://anarinsk.github.io/lie-writing_github/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter Visual Studio Code](https://)
   * 201811 [(https://)
@@ -74,11 +74,11 @@ layout: default
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTc2NzE0NiwzODU5OTgwMTIsMTMxOT
-E1MTI4LDUwOTA1OTc4NCw5MjYwMTA0MywtNDgzMjE3NzUzLC02
-NzMzNDg3NjUsLTE3OTk0Mzc0OTIsLTg5NDEzNTc4NiwtMTcyNz
-EwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5NjAwLC0xNzc5MTEz
-MjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMCw3MTA4NzEyNCw3OT
-Y2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5NjcsLTE4MjA5MDgw
-NjBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDYyODI0NzIsLTMxMTc2NzE0NiwzOD
+U5OTgwMTIsMTMxOTE1MTI4LDUwOTA1OTc4NCw5MjYwMTA0Mywt
+NDgzMjE3NzUzLC02NzMzNDg3NjUsLTE3OTk0Mzc0OTIsLTg5ND
+EzNTc4NiwtMTcyNzEwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5
+NjAwLC0xNzc5MTEzMjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMC
+w3MTA4NzEyNCw3OTY2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5
+NjddfQ==
 -->
