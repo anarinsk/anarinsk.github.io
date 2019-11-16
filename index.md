@@ -62,7 +62,7 @@ layout: default
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/anarinskublie-headrc_writing/master/head-of-r/2018-08-14-head-of-r.html)
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinskublic_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
-  * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
+  * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 
 ## Site History
@@ -71,11 +71,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NT
-k5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00
-ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MT
-M1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2
-MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLD
-cxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2
-N119
+eyJoaXN0b3J5IjpbLTIwMjAwNzA2NzUsLTYwNDM1MzkyMSwtMz
+ExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0
+LDkyNjAxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OT
+QzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIy
+NDEsLTE0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MS
+wxOTYyMDQ5NzIwLDcxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIx
+NzddfQ==
 -->
