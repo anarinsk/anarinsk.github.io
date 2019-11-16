@@ -19,9 +19,6 @@ layout: default
 ## About 
 **Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. Contact me via [email](mailto:anarinsk@gmail.com). 
 
-
-
-
 ### CV 
 [Short](https://anarinsk.github.io/cv/short.html)
 / 
@@ -73,11 +70,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NDIxOTk1LC0yMDIwMDcwNjc1LC02MD
-QzNTM5MjEsLTMxMTc2NzE0NiwzODU5OTgwMTIsMTMxOTE1MTI4
-LDUwOTA1OTc4NCw5MjYwMTA0MywtNDgzMjE3NzUzLC02NzMzND
-g3NjUsLTE3OTk0Mzc0OTIsLTg5NDEzNTc4NiwtMTcyNzEwOTc4
-NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5NjAwLC0xNzc5MTEzMjkyLD
-ExODE2OTA1OTEsMTk2MjA0OTcyMCw3MTA4NzEyNCw3OTY2ODk5
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTI1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMj
+AwNzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAx
+MiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMT
+c3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2
+LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLT
+E3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLDcxMDg3
+MTI0XX0=
 -->
