@@ -25,9 +25,6 @@ layout: default
 / 
 [Long](https://agirinsk.github.io/master/cv/long.html)
 
-
-
-
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
  * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
@@ -74,11 +71,11 @@ layout: default
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMTI5NzU5LC0zMTE3NjcxNDYsMzg1OT
-k4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2MDEwNDMsLTQ4
-MzIxNzc1MywtNjczMzQ4NzY1LC0xNzk5NDM3NDkyLC04OTQxMz
-U3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYw
-MCwtMTc3OTExMzI5MiwxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNz
-EwODcxMjQsNzk2Njg5OTMzLDc3MTI2MjE3NywtMjc1NzgwOTY3
-XX0=
+eyJoaXN0b3J5IjpbMTQ5ODkwMDg0MSwtMzExNzY3MTQ2LDM4NT
+k5ODAxMiwxMzE5MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00
+ODMyMTc3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MT
+M1Nzg2LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2
+MDAsLTE3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLD
+cxMDg3MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2
+N119
 -->
