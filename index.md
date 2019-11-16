@@ -49,7 +49,7 @@ layout: google
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/)
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinsk.github.io/lie-log_trans/)
   * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었나?](https://anarinsk.github.io/bg-effect/)
-  * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
+  * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://anarinsk.github.io/MDIS/) 
 
 ## Site History
 
@@ -57,11 +57,11 @@ layout: google
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU1ODM1MjAsLTgzOTE0ODEwMiwtMT
-kxNTkyMDc4OCwtMTM2MjM4ODg5NiwtMTU0ODUwNjc4MSwtMjUw
-ODMyNDU5LDM2NTQyMTk5NSwtMjAyMDA3MDY3NSwtNjA0MzUzOT
-IxLC0zMTE3NjcxNDYsMzg1OTk4MDEyLDEzMTkxNTEyOCw1MDkw
-NTk3ODQsOTI2MDEwNDMsLTQ4MzIxNzc1MywtNjczMzQ4NzY1LC
-0xNzk5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1
-MzQ0MjI0MV19
+eyJoaXN0b3J5IjpbNzgxODE1MzEyLC0xMzk1NTgzNTIwLC04Mz
+kxNDgxMDIsLTE5MTU5MjA3ODgsLTEzNjIzODg4OTYsLTE1NDg1
+MDY3ODEsLTI1MDgzMjQ1OSwzNjU0MjE5OTUsLTIwMjAwNzA2Nz
+UsLTYwNDM1MzkyMSwtMzExNzY3MTQ2LDM4NTk5ODAxMiwxMzE5
+MTUxMjgsNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMTc3NTMsLT
+Y3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3
+MTA5Nzg0XX0=
 -->
