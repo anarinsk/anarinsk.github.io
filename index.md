@@ -27,14 +27,10 @@ layout: default
 ### Contact 
 [email](mailto:anarinsk@gmail.com)
 
-## History
-
-  1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
-  2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
- * 20191110026 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
+ * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
   * 20191026 [Uanarinskitirawcdn.githack.com/anarinsk/public_writing/master/understanding R_regression](https://anarinsk.github.io/lie-/understanding_regrepoission/.html)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DItm)
@@ -42,8 +38,8 @@ layout: default
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/.i/liemathpca/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
   * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poison/)
-  * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/rawcdn.githack.com/anarinsk/publi/edot_product/c_writing/master/dot_product/understanding%20dot%20product.html)
-  * 20190713 [Poisson from Binomial](http)
+  * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/)
+  * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
@@ -73,12 +69,18 @@ layout: default
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinskublic_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
+
+## Site History
+
+  1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
+  2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYyODI0NzIsLTMxMTc2NzE0NiwzOD
-U5OTgwMTIsMTMxOTE1MTI4LDUwOTA1OTc4NCw5MjYwMTA0Mywt
-NDgzMjE3NzUzLC02NzMzNDg3NjUsLTE3OTk0Mzc0OTIsLTg5ND
-EzNTc4NiwtMTcyNzEwOTc4NCwxNDUzNDQyMjQxLC0xNDQ5Mzk5
-NjAwLC0xNzc5MTEzMjkyLDExODE2OTA1OTEsMTk2MjA0OTcyMC
-w3MTA4NzEyNCw3OTY2ODk5MzMsNzcxMjYyMTc3LC0yNzU3ODA5
-NjddfQ==
+eyJoaXN0b3J5IjpbNzg3MDM3MzExLC0zMTE3NjcxNDYsMzg1OT
+k4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2MDEwNDMsLTQ4
+MzIxNzc1MywtNjczMzQ4NzY1LC0xNzk5NDM3NDkyLC04OTQxMz
+U3ODYsLTE3MjcxMDk3ODQsMTQ1MzQ0MjI0MSwtMTQ0OTM5OTYw
+MCwtMTc3OTExMzI5MiwxMTgxNjkwNTkxLDE5NjIwNDk3MjAsNz
+EwODcxMjQsNzk2Njg5OTMzLDc3MTI2MjE3NywtMjc1NzgwOTY3
+XX0=
 -->
