@@ -8,9 +8,7 @@ layout: default
    <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());        
-  
-
+        gtag('js', new Date());          
   gtag('config', 'UA-121062878-1');
    </script>
    <script data-ad-client="ca-pub-5998015764378916" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -24,7 +22,7 @@ layout: default
 ### CV 
 [Short](https://nsk/anarinsk.github.io/master/cv/short.html)
 / 
-[Long](https://agirinsk/anarinsk.github.io/master/cv/long.html)
+[Long](https://agirinsk.github.io/master/cv/long.html)
 
 ### Contact 
 [email](mailto:anarinsk@gmail.com)
@@ -39,7 +37,7 @@ layout: default
  * 20191110026 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
   * 20191026 [Uanarinskitirawcdn.githack.com/anarinsk/public_writing/master/understanding R_regression](https://anarinsk.github.io/lie-/understanding_regrepoission/.html)
-  * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
+  * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DItm)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/Imatsvm/)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/.i/liemathpca/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
@@ -63,23 +61,24 @@ layout: default
   * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
-  * 2018112 [singthon tisualdio o(https://anarinsk.github.io/lie-bachet/)
-  * 20180905 [Writing anarinskubli/licausality_1rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
+  * 20181012 [p 해킹]singthon tisualdio o(https://anarinsk.github.io/lie-bachet/)
+  * 2018)
+  * 20181 [ing Pthanarinskubli/licausality_10905 [Writing anarinskubli/licausality_1rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
   * 20181125 [Using Python Gwithub](https://anarinsk.github.io/lie-writing_github/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter Visual Studio Code](https://)
-  * 2018101 [p해킹](https://)
+  * 201811 [(https://)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
-  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/rawgit.com/anarinsk/publie-headrc_writing/master/head-of-r/2018-08-14-head-of-r.html)
+  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/anarinskublie-headrc_writing/master/head-of-r/2018-08-14-head-of-r.html)
   * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinskublic_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTkyODQ5NywxMzE5MTUxMjgsNTA5MD
-U5Nzg0LDkyNjAxMDQzLC00ODMyMTc3NTMsLTY3MzM0ODc2NSwt
-MTc5OTQzNzQ5MiwtODk0MTM1Nzg2LC0xNzI3MTA5Nzg0LDE0NT
-M0NDIyNDEsLTE0NDkzOTk2MDAsLTE3NzkxMTMyOTIsMTE4MTY5
-MDU5MSwxOTYyMDQ5NzIwLDcxMDg3MTI0LDc5NjY4OTkzMyw3Nz
-EyNjIxNzcsLTI3NTc4MDk2NywtMTgyMDkwODA2MCwtNjA4MDQ5
-OTE2XX0=
+eyJoaXN0b3J5IjpbMzg1OTk4MDEyLDEzMTkxNTEyOCw1MDkwNT
+k3ODQsOTI2MDEwNDMsLTQ4MzIxNzc1MywtNjczMzQ4NzY1LC0x
+Nzk5NDM3NDkyLC04OTQxMzU3ODYsLTE3MjcxMDk3ODQsMTQ1Mz
+Q0MjI0MSwtMTQ0OTM5OTYwMCwtMTc3OTExMzI5MiwxMTgxNjkw
+NTkxLDE5NjIwNDk3MjAsNzEwODcxMjQsNzk2Njg5OTMzLDc3MT
+I2MjE3NywtMjc1NzgwOTY3LC0xODIwOTA4MDYwLC02MDgwNDk5
+MTZdfQ==
 -->
