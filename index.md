@@ -10,10 +10,11 @@ layout: default
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());  
         
-    gtag('config', 'UA-121062878-1');
+  
+  gtag('config', 'UA-121062878-1');
    </script>
    <script data-ad-client="ca-pub-5998015764378916" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</head>
+</ead>
 
 ## About 
 **Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for.
@@ -21,9 +22,9 @@ layout: default
 
 
 ### CV 
-[Short](https://rawgit.com/anarinsk/anarinsk.github.io/master/cv/short.html)
+[Short](https://nsk/anarinsk.github.io/master/cv/short.html)
 / 
-[Long](https://rawgit.com/anarinsk/anarinsk.github.io/master/cv/long.html)
+[Long](https://agirinsk/anarinsk.github.io/master/cv/long.html)
 
 ### Contact 
 [email](mailto:anarinsk@gmail.com)
@@ -35,15 +36,16 @@ layout: default
 
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
- * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
+ * 20191110026 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
-  * 20191026 [Understanding Regression](https://anarinsk.github.io/lie-regression)
+  * 20191026 [Uanarinskitir/understanding R_regression](https://anarinsk.github.io/lie-/understanding_regepoisson/)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
-  * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
-  * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
+  * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/Imatsvm/)
+  * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/.i/liemathpca/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
   * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
-  * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/)
+  * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/anarinskubli/edot_product/)
+  * 20190713 [Poisson from Binomial](http)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
@@ -63,20 +65,22 @@ layout: default
   * 20181012 [p 해킹](https://anarinsk.github.io/lie-p_hacking/)
   * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://anarinsk.github.io/lie-ariely_ds/)
   * 20180917 [Weighing Problem of Bachet de Méziriac ](https://anarinsk.github.io/lie-bachet/)
-  * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
-  * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter)
+  * 20180905 [Writing anarinskubli/licausality_1)
+  * 20181125 [Using Python Gwithub](https://anarinsk.github.io/lie-writing_github/)
+  * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter Visual Studio Code](https://)
+  * 2018101 [p해킹](https://)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
-  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/)
-  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://rawgit.com/anarinsk/public_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
+  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/rawgit.com/anarinsk/publie-headr)
+  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinskublic_writing/master/logtransformation/2018-08-07-logwithlevel.nb.html)
   * 20180620 [배틀그라운드 모바일은 다른 모바일 게임 매출에 어떤 영향을 미쳤나?](https://rawgit.com/anarinsk/bg-effect/master/documentation/posting.html)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://rawgit.com/anarinsk/MDIS/master/documentation/posting.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MDU5Nzg0LDkyNjAxMDQzLC00ODMyMT
-c3NTMsLTY3MzM0ODc2NSwtMTc5OTQzNzQ5MiwtODk0MTM1Nzg2
-LC0xNzI3MTA5Nzg0LDE0NTM0NDIyNDEsLTE0NDkzOTk2MDAsLT
-E3NzkxMTMyOTIsMTE4MTY5MDU5MSwxOTYyMDQ5NzIwLDcxMDg3
-MTI0LDc5NjY4OTkzMyw3NzEyNjIxNzcsLTI3NTc4MDk2NywtMT
-gyMDkwODA2MCwtNjA4MDQ5OTE2LC0zNTc0NTg1NjEsNTM2Njg3
-NDE1XX0=
+eyJoaXN0b3J5IjpbMTMxOTE1MTI4LDUwOTA1OTc4NCw5MjYwMT
+A0MywtNDgzMjE3NzUzLC02NzMzNDg3NjUsLTE3OTk0Mzc0OTIs
+LTg5NDEzNTc4NiwtMTcyNzEwOTc4NCwxNDUzNDQyMjQxLC0xND
+Q5Mzk5NjAwLC0xNzc5MTEzMjkyLDExODE2OTA1OTEsMTk2MjA0
+OTcyMCw3MTA4NzEyNCw3OTY2ODk5MzMsNzcxMjYyMTc3LC0yNz
+U3ODA5NjcsLTE4MjA5MDgwNjAsLTYwODA0OTkxNiwtMzU3NDU4
+NTYxXX0=
 -->
