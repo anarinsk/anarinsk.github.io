@@ -1,6 +1,7 @@
 
 ---
 layout: default
+
 ---
 
 
@@ -57,7 +58,7 @@ layout: default
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM4NzU0NCw5NzUzODI3MjksLTEzMT
+eyJoaXN0b3J5IjpbMTU5NTMzOTY3MCw5NzUzODI3MjksLTEzMT
 AwMzcxMzgsODA3NzAzOTEzLDc4MTgxNTMxMiwtMTM5NTU4MzUy
 MCwtODM5MTQ4MTAyLC0xOTE1OTIwNzg4LC0xMzYyMzg4ODk2LC
 0xNTQ4NTA2NzgxLC0yNTA4MzI0NTksMzY1NDIxOTk1LC0yMDIw
