@@ -20,7 +20,7 @@ layout: google
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/Imatsvm/)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
-  * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poison/)
+  * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
   * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/)
   * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
@@ -57,11 +57,11 @@ layout: google
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NzAzOTEzLDc4MTgxNTMxMiwtMTM5NT
-U4MzUyMCwtODM5MTQ4MTAyLC0xOTE1OTIwNzg4LC0xMzYyMzg4
-ODk2LC0xNTQ4NTA2NzgxLC0yNTA4MzI0NTksMzY1NDIxOTk1LC
-0yMDIwMDcwNjc1LC02MDQzNTM5MjEsLTMxMTc2NzE0NiwzODU5
-OTgwMTIsMTMxOTE1MTI4LDUwOTA1OTc4NCw5MjYwMTA0MywtND
-gzMjE3NzUzLC02NzMzNDg3NjUsLTE3OTk0Mzc0OTIsLTg5NDEz
-NTc4Nl19
+eyJoaXN0b3J5IjpbLTEzMTAwMzcxMzgsODA3NzAzOTEzLDc4MT
+gxNTMxMiwtMTM5NTU4MzUyMCwtODM5MTQ4MTAyLC0xOTE1OTIw
+Nzg4LC0xMzYyMzg4ODk2LC0xNTQ4NTA2NzgxLC0yNTA4MzI0NT
+ksMzY1NDIxOTk1LC0yMDIwMDcwNjc1LC02MDQzNTM5MjEsLTMx
+MTc2NzE0NiwzODU5OTgwMTIsMTMxOTE1MTI4LDUwOTA1OTc4NC
+w5MjYwMTA0MywtNDgzMjE3NzUzLC02NzMzNDg3NjUsLTE3OTk0
+Mzc0OTJdfQ==
 -->
