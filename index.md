@@ -1,19 +1,24 @@
 
 ## About 
-**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. If you are interested in me, see my CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)). Contact me via [email](mailto:anarinsk@gmail.com).
+**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. If you are interested in me, see my CV 
+[Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)). Contact me via [email](mailto:anarinsk@gmail.com).
 
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
- * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
+ * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/egression)
+  2017 [Vsion](http://incsti.ot20111iv.tm)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
-  * 20191026 [Understading Regression](https://anarinsk.github.io/lie-regression/)
+  * 20191026 [Understading Regression](https://anarinsk.github.io/lie-rawcdn.githack.com/anarinsk/public_writing/master/understanding_regression/understanding_regression/.html)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
   * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
   * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/)
-  * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
+  * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/rawcdn.githack.com/anarinsk/public_writing/master/dot_product/understanding%20dot%20product.html)
+  * 20190713 [Poisson from Binomial](https://)
+  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://logtrans)
+  * 2018101 [p해킹](https://.githubio/)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
@@ -29,8 +34,11 @@
   * 20190214 [One-shot Econ: 푸드스탬프의 경제학](https://brunch.co.kr/@anarinsk/9)
   * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
-  * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
-  * 20181012 [p&#8722;해킹](https://anarinsk.github.io/lie-p_hacking/)
+  * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/rawcdn.githack.com/anarinsk/public_writing/master/causality/causality_part1.html)
+  * 20181125 [Using Python with Visual Studio Code](https://rawcdn.githack.com/anarinsk/public_writing/master/conda_vsc/conda_vsc.html)
+  * 20181124 [Shannon's entropy](https://rawcdn.githack.com/anarinsk/public_writing/master/entropy/Entropy.html)
+  * 201811012 [p&#8722;-해킹](https://anarinskrawcdn.githack.com/anarinsk/public_writing/master/p_hacking/phacking.htl)
+  * 20181001 [댄 에리얼리, "부의 감각"에 관한 잡상 1](https://rawcdn.gitrw.htmlpreview.github.io/lie-p_hacking/https://gith.com/anarinsk/public_writing/blob/master/dollars_sense/Ariely_money_1.htm)
   * 20180917 [Weighing Problem of Bachet de Méziriac](https://anarinsk.github.io/lie-bachet)
   * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
@@ -38,9 +46,9 @@
   * 20181001 [댄 에리얼리, "부의 감각"](https://anarinsk.github.io/lie-ariely_ds/)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
-  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/)
-  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinsk.github.io/lie-log_trans/)
-  * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었나?](https://anarinsk.github.io/bg-effect/)
+  * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/rawgit.com/anarinsk/public_writing/master/head-of-r/2018-08-14-head-of-r.html)
+  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinsk.github.io/lie-rawgit.com/anarinsk/public_writing/master/log_trans/formation/2018-08-07-logwithlevel.nb.html)
+  * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 미쳤나?](https://anarinsk.github.io/bg-effect/)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://anarinsk.github.io/MDIS/) 
 
 ## Site History
@@ -48,11 +56,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDYyNzQ1OSwtMTk4MDQ1OTYyNSwxOD
-gwMzI1NDIyLC0xMzc3NTI2NzkxLC0xNDU0ODY1Mzk5LDk3NTM4
-MjcyOSwtMTMxMDAzNzEzOCw4MDc3MDM5MTMsNzgxODE1MzEyLC
-0xMzk1NTgzNTIwLC04MzkxNDgxMDIsLTE5MTU5MjA3ODgsLTEz
-NjIzODg4OTYsLTE1NDg1MDY3ODEsLTI1MDgzMjQ1OSwzNjU0Mj
-E5OTUsLTIwMjAwNzA2NzUsLTYwNDM1MzkyMSwtMzExNzY3MTQ2
-LDM4NTk5ODAxMl19
+eyJoaXN0b3J5IjpbMTM3OTY1ODYwNCwxNTIwNjI3NDU5LC0xOT
+gwNDU5NjI1LDE4ODAzMjU0MjIsLTEzNzc1MjY3OTEsLTE0NTQ4
+NjUzOTksOTc1MzgyNzI5LC0xMzEwMDM3MTM4LDgwNzcwMzkxMy
+w3ODE4MTUzMTIsLTEzOTU1ODM1MjAsLTgzOTE0ODEwMiwtMTkx
+NTkyMDc4OCwtMTM2MjM4ODg5NiwtMTU0ODUwNjc4MSwtMjUwOD
+MyNDU5LDM2NTQyMTk5NSwtMjAyMDA3MDY3NSwtNjA0MzUzOTIx
+LC0zMTE3NjcxNDZdfQ==
 -->
