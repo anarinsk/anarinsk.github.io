@@ -36,6 +36,7 @@
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
   * 20181012 [p&#8722;해킹](https://anarinsk.github.io/lie-p_hacking/)
+  * 20180917 [Weighing Problem of Bachet de Méziriac]()
   * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter/)
@@ -52,11 +53,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc1MjY3OTEsLTE0NTQ4NjUzOTksOT
-c1MzgyNzI5LC0xMzEwMDM3MTM4LDgwNzcwMzkxMyw3ODE4MTUz
-MTIsLTEzOTU1ODM1MjAsLTgzOTE0ODEwMiwtMTkxNTkyMDc4OC
-wtMTM2MjM4ODg5NiwtMTU0ODUwNjc4MSwtMjUwODMyNDU5LDM2
-NTQyMTk5NSwtMjAyMDA3MDY3NSwtNjA0MzUzOTIxLC0zMTE3Nj
-cxNDYsMzg1OTk4MDEyLDEzMTkxNTEyOCw1MDkwNTk3ODQsOTI2
-MDEwNDNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU3MjkxODYsLTEzNzc1MjY3OTEsLT
+E0NTQ4NjUzOTksOTc1MzgyNzI5LC0xMzEwMDM3MTM4LDgwNzcw
+MzkxMyw3ODE4MTUzMTIsLTEzOTU1ODM1MjAsLTgzOTE0ODEwMi
+wtMTkxNTkyMDc4OCwtMTM2MjM4ODg5NiwtMTU0ODUwNjc4MSwt
+MjUwODMyNDU5LDM2NTQyMTk5NSwtMjAyMDA3MDY3NSwtNjA0Mz
+UzOTIxLC0zMTE3NjcxNDYsMzg1OTk4MDEyLDEzMTkxNTEyOCw1
+MDkwNTk3ODRdfQ==
 -->
