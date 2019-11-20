@@ -1,6 +1,6 @@
 
 ## About 
-**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. If you are interested in me, see my CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)). Contact me via [email](mailto:anarinsk@gmail.com).
+**Jun Sok Huhh** PhD in Economics, lost in economics but still haven't found what i'm looking for. If you are interested in me, see my CV ([Short](https://anarinsk.github.io/cv/short.html)/[Long](https://anarinsk.github.io/cv/long.html)). Contact me via [email](mailto:anarinsk@gmail.com).
 
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
@@ -47,11 +47,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUzMTczOCwxNTIwNjI3NDU5LDEzNz
-k2NTg2MDQsMTUyMDYyNzQ1OSwtMTk4MDQ1OTYyNSwxODgwMzI1
-NDIyLC0xMzc3NTI2NzkxLC0xNDU0ODY1Mzk5LDk3NTM4MjcyOS
-wtMTMxMDAzNzEzOCw4MDc3MDM5MTMsNzgxODE1MzEyLC0xMzk1
-NTgzNTIwLC04MzkxNDgxMDIsLTE5MTU5MjA3ODgsLTEzNjIzOD
-g4OTYsLTE1NDg1MDY3ODEsLTI1MDgzMjQ1OSwzNjU0MjE5OTUs
-LTIwMjAwNzA2NzVdfQ==
+eyJoaXN0b3J5IjpbLTExNDY3NDE0MjYsMTUyMDYyNzQ1OSwxMz
+c5NjU4NjA0LDE1MjA2Mjc0NTksLTE5ODA0NTk2MjUsMTg4MDMy
+NTQyMiwtMTM3NzUyNjc5MSwtMTQ1NDg2NTM5OSw5NzUzODI3Mj
+ksLTEzMTAwMzcxMzgsODA3NzAzOTEzLDc4MTgxNTMxMiwtMTM5
+NTU4MzUyMCwtODM5MTQ4MTAyLC0xOTE1OTIwNzg4LC0xMzYyMz
+g4ODk2LC0xNTQ4NTA2NzgxLC0yNTA4MzI0NTksMzY1NDIxOTk1
+LC0yMDIwMDcwNjc1XX0=
 -->
