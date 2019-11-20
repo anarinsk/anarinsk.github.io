@@ -44,14 +44,14 @@
 
 ## Site History
 
-  1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
-  2. 20180611 Version 2 is open. (ver. 1 is not upated anymore.)
+  1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. (This is not upated anymore.)
+  2. 20180611 Version 2 is open. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDI2MjI2NywtMTE0Njc0MTQyNiwxNT
-IwNjI3NDU5LDEzNzk2NTg2MDQsMTUyMDYyNzQ1OSwtMTk4MDQ1
-OTYyNSwxODgwMzI1NDIyLC0xMzc3NTI2NzkxLC0xNDU0ODY1Mz
-k5LDk3NTM4MjcyOSwtMTMxMDAzNzEzOCw4MDc3MDM5MTMsNzgx
-ODE1MzEyLC0xMzk1NTgzNTIwLC04MzkxNDgxMDIsLTE5MTU5Mj
-A3ODgsLTEzNjIzODg4OTYsLTE1NDg1MDY3ODEsLTI1MDgzMjQ1
-OSwzNjU0MjE5OTVdfQ==
+eyJoaXN0b3J5IjpbLTExODYwODg3NDcsLTM1MDI2MjI2NywtMT
+E0Njc0MTQyNiwxNTIwNjI3NDU5LDEzNzk2NTg2MDQsMTUyMDYy
+NzQ1OSwtMTk4MDQ1OTYyNSwxODgwMzI1NDIyLC0xMzc3NTI2Nz
+kxLC0xNDU0ODY1Mzk5LDk3NTM4MjcyOSwtMTMxMDAzNzEzOCw4
+MDc3MDM5MTMsNzgxODE1MzEyLC0xMzk1NTgzNTIwLC04MzkxND
+gxMDIsLTE5MTU5MjA3ODgsLTEzNjIzODg4OTYsLTE1NDg1MDY3
+ODEsLTI1MDgzMjQ1OV19
 -->
