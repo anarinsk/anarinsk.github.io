@@ -1,7 +1,7 @@
 
 ## About 
   
-**Jun Sok Huhh** 허준석 &#124; PhD in Economics &vert; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &vert; [email](mailto:anarinsk@gmail.com)
+**Jun Sok Huhh** 허준석 &#124; PhD in Economics &#124; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &#124; [email](mailto:anarinsk@gmail.com)
 
 ## Updated 
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
@@ -48,11 +48,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NzU2MjMxLC0xMTUwMDU2NjAyLDkxMD
-U1MTQ0MSwxNzc5MzcyMTE3LC0xMTg2MDg4NzQ3LC0zNTAyNjIy
-NjcsLTExNDY3NDE0MjYsMTUyMDYyNzQ1OSwxMzc5NjU4NjA0LD
-E1MjA2Mjc0NTksLTE5ODA0NTk2MjUsMTg4MDMyNTQyMiwtMTM3
-NzUyNjc5MSwtMTQ1NDg2NTM5OSw5NzUzODI3MjksLTEzMTAwMz
-cxMzgsODA3NzAzOTEzLDc4MTgxNTMxMiwtMTM5NTU4MzUyMCwt
-ODM5MTQ4MTAyXX0=
+eyJoaXN0b3J5IjpbLTkzNjcwMTA1LDUwOTc1NjIzMSwtMTE1MD
+A1NjYwMiw5MTA1NTE0NDEsMTc3OTM3MjExNywtMTE4NjA4ODc0
+NywtMzUwMjYyMjY3LC0xMTQ2NzQxNDI2LDE1MjA2Mjc0NTksMT
+M3OTY1ODYwNCwxNTIwNjI3NDU5LC0xOTgwNDU5NjI1LDE4ODAz
+MjU0MjIsLTEzNzc1MjY3OTEsLTE0NTQ4NjUzOTksOTc1MzgyNz
+I5LC0xMzEwMDM3MTM4LDgwNzcwMzkxMyw3ODE4MTUzMTIsLTEz
+OTU1ODM1MjBdfQ==
 -->
