@@ -4,7 +4,7 @@
 **Jun Sok Huhh** 허준석 &#124; PhD in Economics &#124; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &#124; [email](mailto:anarinsk@gmail.com)
 
 ## Updated
- 
+ * 20191211 [Perron-Frobenius Theorem, part 1](https://anarinsk.github.io/lie-pf1/)
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
  * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
@@ -49,7 +49,7 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjA4Mjc1OSwtOTM2NzAxMDUsNTA5Nz
+eyJoaXN0b3J5IjpbMTI2NzYzNDI1NCwtOTM2NzAxMDUsNTA5Nz
 U2MjMxLC0xMTUwMDU2NjAyLDkxMDU1MTQ0MSwxNzc5MzcyMTE3
 LC0xMTg2MDg4NzQ3LC0zNTAyNjIyNjcsLTExNDY3NDE0MjYsMT
 UyMDYyNzQ1OSwxMzc5NjU4NjA0LDE1MjA2Mjc0NTksLTE5ODA0
