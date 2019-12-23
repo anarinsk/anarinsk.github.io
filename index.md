@@ -5,13 +5,13 @@
 
 ## Updated
  * 20191224 [Page&#8208;rank as Markov Chain](https://anarinsk.github.io/lie-pagerank)
- * 20191220 [Perron-Frobenius Theorem, part 2](https://anarinsk.github.io/lie-pf2/)
- * 20191211 [Perron-Frobenius Theorem, part 1](https://anarinsk.github.io/lie-pf1/)
+ * 20191220 [Perron&#8208;Frobenius Theorem, part 2](https://anarinsk.github.io/lie-pf2/)
+ * 20191211 [Perron&#8208;Frobenius Theorem, part 1](https://anarinsk.github.io/lie-pf1/)
  * 20191203 [Eigenvalues and Eigenvectors](https://anarinsk.github.io/lie-eigen/)
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
  * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
-  * 20191026 [Understading Regression](https://anarinsk.github.io/lie-regression/)
+  * 20191026 [Understding Regression](https://anarinsk.github.io/lie-regression/)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
@@ -35,7 +35,7 @@
   * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
-  * 20181012 [p&#8722;해킹](https://anarinsk.github.io/lie-p_hacking/)
+  * 20181012 [p&#8208;해킹](https://anarinsk.github.io/lie-p_hacking/)
   * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
   * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
   * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter/)
@@ -52,7 +52,7 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzMyMzUyNSwtNDk3MTA2MTg3LDg1MD
+eyJoaXN0b3J5IjpbLTkzNTQyMjc0OSwtNDk3MTA2MTg3LDg1MD
 I2MzQ2MywxMjY3NjM0MjU0LC05MzY3MDEwNSw1MDk3NTYyMzEs
 LTExNTAwNTY2MDIsOTEwNTUxNDQxLDE3NzkzNzIxMTcsLTExOD
 YwODg3NDcsLTM1MDI2MjI2NywtMTE0Njc0MTQyNiwxNTIwNjI3
