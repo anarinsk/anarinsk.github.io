@@ -4,7 +4,7 @@
 **Jun Sok Huhh** 허준석 &#124; PhD in Economics &#124; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &#124; [email](mailto:anarinsk@gmail.com)
 
 ## Updated
- * 20191224 [Page&#8208;rank as Markov Chain](https://anarinsk.github.io/lie-pagerank)
+ * 20191224 [PageRank as Markov Chain](https://anarinsk.github.io/lie-pagerank)
  * 20191220 [Perron&#8208;Frobenius Theorem, part 2](https://anarinsk.github.io/lie-pf2/)
  * 20191211 [Perron&#8208;Frobenius Theorem, part 1](https://anarinsk.github.io/lie-pf1/)
  * 20191203 [Eigenvalues and Eigenvectors](https://anarinsk.github.io/lie-eigen/)
@@ -52,7 +52,7 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTI3NDE5MiwtOTM1NDIyNzQ5LC00OT
+eyJoaXN0b3J5IjpbMTg5NTA5NDY4NiwtOTM1NDIyNzQ5LC00OT
 cxMDYxODcsODUwMjYzNDYzLDEyNjc2MzQyNTQsLTkzNjcwMTA1
 LDUwOTc1NjIzMSwtMTE1MDA1NjYwMiw5MTA1NTE0NDEsMTc3OT
 M3MjExNywtMTE4NjA4ODc0NywtMzUwMjYyMjY3LC0xMTQ2NzQx
