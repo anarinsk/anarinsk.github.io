@@ -11,7 +11,7 @@
  * 20191114 [How to Build lostineconomics.com](https://anarinsk.github.io/lie-build_lie/)
  * 20191110 [Understanding Logit Regression](https://anarinsk.github.io/lie-logit_reg/)
  * 20191107 [Visual Studio Code ❤ Python!](https://danbi-ncsoft.github.io/etc/2019/11/07/viva-vsc.html)
-  * 20191026 [Understding Regression](https://anarinsk.github.io/lie-regression/)
+  * 20191026 [Understanding Regression](https://anarinsk.github.io/lie-regression/)
   * 20190813 [Difference in Differences (이중차분법)](https://danbi-ncsoft.github.io/study/2019/08/13/causality-part4-DID.html)
   * 20190808 [Instrumental variable (도구변수)](https://danbi-ncsoft.github.io/study/2019/08/07/IV.html)
   * 20190726 [노래 추천으로 본 코사인 유사도](https://anarinsk.github.io/cossim/)
@@ -52,11 +52,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTQyMjc0OSwtNDk3MTA2MTg3LDg1MD
-I2MzQ2MywxMjY3NjM0MjU0LC05MzY3MDEwNSw1MDk3NTYyMzEs
-LTExNTAwNTY2MDIsOTEwNTUxNDQxLDE3NzkzNzIxMTcsLTExOD
-YwODg3NDcsLTM1MDI2MjI2NywtMTE0Njc0MTQyNiwxNTIwNjI3
-NDU5LDEzNzk2NTg2MDQsMTUyMDYyNzQ1OSwtMTk4MDQ1OTYyNS
-wxODgwMzI1NDIyLC0xMzc3NTI2NzkxLC0xNDU0ODY1Mzk5LDk3
-NTM4MjcyOV19
+eyJoaXN0b3J5IjpbMTU4OTI3NDE5MiwtOTM1NDIyNzQ5LC00OT
+cxMDYxODcsODUwMjYzNDYzLDEyNjc2MzQyNTQsLTkzNjcwMTA1
+LDUwOTc1NjIzMSwtMTE1MDA1NjYwMiw5MTA1NTE0NDEsMTc3OT
+M3MjExNywtMTE4NjA4ODc0NywtMzUwMjYyMjY3LC0xMTQ2NzQx
+NDI2LDE1MjA2Mjc0NTksMTM3OTY1ODYwNCwxNTIwNjI3NDU5LC
+0xOTgwNDU5NjI1LDE4ODAzMjU0MjIsLTEzNzc1MjY3OTEsLTE0
+NTQ4NjUzOTldfQ==
 -->
