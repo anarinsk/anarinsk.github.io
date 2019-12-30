@@ -1,4 +1,4 @@
-# Jun Sok Huhh
+# Jun Sok Huhh / 허준석
 
 Lead (acting), Data Center 
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
@@ -51,5 +51,5 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTg0MjI2M119
+eyJoaXN0b3J5IjpbLTMzNDUxOTM4MV19
 -->
