@@ -10,8 +10,8 @@ Lead (acting), Data Center
 
 *NCSOFT*, Lead, R&I Team (Seongnam Gyeonggi  &#183; South Korea) 2014--2018.03
 
-*KISDI* \*, Senior Researcher (Jinchun Chungchungbuk  &#183; South Korea) 2013--2014 <br />
-*Korea Information Society Development Institute
+*KISDI*$^*$, Senior Researcher (Jinchun Chungchungbuk  &#183; South Korea) 2013--2014
+$^*$Korea Information Society Development Institute
 
 *FourThirtyThree*, Data Anlysist (Seoul  &#183; South Korea) 2012--2013
 
@@ -51,5 +51,5 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNzkwOTg3XX0=
+eyJoaXN0b3J5IjpbMTQ3NDE3NDM1Miw2MzI3OTA5ODddfQ==
 -->
