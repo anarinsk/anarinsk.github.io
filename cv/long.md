@@ -1,7 +1,7 @@
 
 # Jun Sok Huhh
 
-Lead(acting), Data Center 
+Lead (acting), Data Center 
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
 [mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183; [blog](http://lostineconomics.com) &vert; updated: December 30, 2019
 
@@ -116,5 +116,5 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NDA2NDE0LC0xNDk1NTQ5OTIwXX0=
+eyJoaXN0b3J5IjpbLTMzNDYzMzE4NiwtMTQ5NTU0OTkyMF19
 -->
