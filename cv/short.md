@@ -4,7 +4,7 @@ Lead (acting), Data Center
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
 [mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183; [blog](http://lostineconomics.com) &vert; updated: December 30, 2019
 
-# Employment
+## Employment
 
 *NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi  &#183; South Korea) 2018.03--present 
 
@@ -17,7 +17,7 @@ Lead (acting), Data Center
 
 *Seoul National University*, Postdoc. School of Economics (Seoul  &#183; South Korea) 2011--2012
 
-# Education
+## Education
 
 *Seoul National University*, Ph.D. School of Economics 2010
 
@@ -25,15 +25,15 @@ Lead (acting), Data Center
 
 *Seoul National University*, B.A. School of Economics 1995
 
-# Publications
+## Publications
 
-## Books and Book Chapters 
+### Books and Book Chapters 
 
 Jun Sok Huhh. 2009. "The Evolution of PC bang Culture in Korea (Chapter 7)." *Gaming Cultures and Place in Asia-Pacific* [edited by Larissa Hjorth, Dean Chan]. Routledge.
 
 Jun Sok Huhh. 2006. *Business of Fun–Economics of computer games industry*. ChekSeSang. [Korean language]
 
-## Journal Articles
+### Journal Articles
 
 Jun Sok Huhh and Jeong Wook Byun. 2017. "North Korea’s Nuclear Weapon Development and South Korea’s Strategic Reaction: A Signaling Game Approach." *Ehwa Journal of Social Sciences* 33(1): 107--142. [Korean language]
 
@@ -41,15 +41,15 @@ Jun Sok Huhh and Jung-Kyu Choi. 2012. "The Decay in Contributions in a Public Go
 
 Jun Sok Huhh. 2008. "Culture and Business of PC Bangs in Korea." *Games and Culture* 3(1):26--37.
 
-# Technical Skills 
+## Technical Skills 
 
-## Proficient
+### Proficient
 R, Mathematica, $\rm \LaTeX$
 
-## Familiar
+### Familiar
 Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTE2NzI5M119
+eyJoaXN0b3J5IjpbMTg3NTg0MjI2M119
 -->
