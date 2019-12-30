@@ -122,3 +122,6 @@ R, Mathematica, $\rm \LaTeX$
 
 ## Familiar
 Python, NetLogo, Docker
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc3MTcwOTg3NV19
+-->
