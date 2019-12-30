@@ -45,7 +45,7 @@ Lecture: Principle of Economics, Microeconomic Theory
 
 ## Publications
 
-### Books and Book Chapters 
+### Books and book chapters 
 
 Jun Sok Huhh. 2013. "Who’s Afraid of Social Games (Chapter 7)." *Game Phobia* [Korean language]. Communication Books. [Korean language]
 
@@ -55,7 +55,7 @@ Jun Sok Huhh, Larissa Hjorth and Bora Na. 2009. "Games of gender: a case study o
 
 Jun Sok Huhh. 2006. *Business of Fun–Economics of computer games industry*. ChekSeSang. [Korean language]
 
-### Journal Articles
+### Journal articles
 
 Jun Sok Huhh and Jeong Wook Byun. 2017. "North Korea’s Nuclear Weapon Development and South Korea’s Strategic Reaction: A Signaling Game Approach." *Ehwa Journal of Social Sciences* 33(1): 107--142. [Korean language]
 
@@ -116,5 +116,6 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTc3MjE4NywtMTQ5NTU0OTkyMF19
+eyJoaXN0b3J5IjpbLTIwNTUwNDk2MDUsLTE0OTU1NDk5MjBdfQ
+==
 -->
