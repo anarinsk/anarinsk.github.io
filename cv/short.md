@@ -75,3 +75,6 @@ R, Mathematica, $\rm \LaTeX$
 
 ## Familiar
 Python, NetLogo, Docker
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2MjkyNzM3NV19
+-->
