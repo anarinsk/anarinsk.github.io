@@ -114,9 +114,7 @@ R, Mathematica, $\rm \LaTeX$
 ## Familiar
 Python, NetLogo, Docker
 <br>
-<br>
-<br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODg3MjEzNCwtMTQ5NTU0OTkyMF19
+eyJoaXN0b3J5IjpbNTE1NDA2NDE0LC0xNDk1NTQ5OTIwXX0=
 -->
