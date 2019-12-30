@@ -1,12 +1,10 @@
----
-title: "Jun Sok Huhh"
----
 
+# Jun Sok Huhh
 *****
-<div id = "vtight"> 
-Lead, I&I Division </br>
-12 Daewangpangyo-ro 644beon-gil $\cdot$ NCSOFT $\cdot$ Seongnam Gyeonggi, South Korea 13494 </br>
-[mail4work](mailto: junsokhuhh@ncsoft.com) $\cdot$
+
+Lead, I&I Division 
+12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
+[mail4work](junsokhuhh@ncsoft.com) &#183;
 [mail4personal](mailto: anarinsk@gmail.com) $\cdot$
 [github](https://github.com/anarinsk) $\cdot$
 [blog](http://lostineconomics.com) 
@@ -123,5 +121,5 @@ R, Mathematica, $\rm \LaTeX$
 ## Familiar
 Python, NetLogo, Docker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTcwOTg3NV19
+eyJoaXN0b3J5IjpbLTE4MDMwOTY0ODddfQ==
 -->
