@@ -27,13 +27,13 @@ Lead (acting), Data Center
 
 ## Publications
 
-### Books and Book Chapters 
+### Books and book chapters 
 
 Jun Sok Huhh. 2009. "The Evolution of PC bang Culture in Korea (Chapter 7)." *Gaming Cultures and Place in Asia-Pacific* [edited by Larissa Hjorth, Dean Chan]. Routledge.
 
 Jun Sok Huhh. 2006. *Business of Fun–Economics of computer games industry*. ChekSeSang. [Korean language]
 
-### Journal Articles
+### Journal articles
 
 Jun Sok Huhh and Jeong Wook Byun. 2017. "North Korea’s Nuclear Weapon Development and South Korea’s Strategic Reaction: A Signaling Game Approach." *Ehwa Journal of Social Sciences* 33(1): 107--142. [Korean language]
 
@@ -51,5 +51,5 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDUxOTM4MV19
+eyJoaXN0b3J5IjpbNjMyNzkwOTg3XX0=
 -->
