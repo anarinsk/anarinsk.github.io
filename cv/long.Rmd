@@ -1,17 +1,9 @@
 
 # Jun Sok Huhh
-*****
 
-Lead, I&I Division 
+Lead, I&I Divisio 
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
-[mail4work](junsokhuhh@ncsoft.com) &#183;
-[mail4personal](mailto: anarinsk@gmail.com) $\cdot$
-[github](https://github.com/anarinsk) $\cdot$
-[blog](http://lostineconomics.com) 
-&vert; updated: November 18, 2017 </br>
-</div>
-******
-
+[mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183;[blog](http://lostineconomics.com) &vert; updated: December 30, 2019
 # Education
 
 *Seoul National University*, Ph.D. School of Economics 2010 </br>
@@ -121,5 +113,5 @@ R, Mathematica, $\rm \LaTeX$
 ## Familiar
 Python, NetLogo, Docker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMwOTY0ODddfQ==
+eyJoaXN0b3J5IjpbLTk3NjQxOTkwM119
 -->
