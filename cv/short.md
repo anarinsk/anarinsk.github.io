@@ -1,32 +1,21 @@
----
-title: "Jun Sok Huhh"
----
+# Jun Sok Huhh
 
-*****
-<div id = "vtight"> 
-Lead, I&I Division </br>
-12 Daewangpangyo-ro 644beon-gil $\cdot$ NCSOFT $\cdot$ Seongnam Gyeonggi, South Korea 13494 </br>
-[mail4work](mailto: junsokhuhh@ncsoft.com) $\cdot$
-[mail4personal](mailto: anarinsk@gmail.com) $\cdot$
-[github](https://github.com/anarinsk) $\cdot$
-[blog](http://lostineconomics.com) 
-&vert; updated: November 18, 2017 </br>
-</div>
-******
-
+Lead(acting), Data Center 
+12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
+[mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183; [blog](http://lostineconomics.com) &vert; updated: December 30, 2019
 
 # Employment
 
-*NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi $\cdot$ South Korea) 2018.03--present 
+*NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi  &#183; South Korea) 2018.03--present 
 
-*NCSOFT*, Lead, R&I Team (Seongnam Gyeonggi $\cdot$ South Korea) 2014--2018.03
+*NCSOFT*, Lead, R&I Team (Seongnam Gyeonggi  &#183; South Korea) 2014--2018.03
 
-*KISDI* \*, Senior Researcher (Jinchun Chungchungbuk $\cdot$ South Korea) 2013--2014 <br />
+*KISDI* \*, Senior Researcher (Jinchun Chungchungbuk  &#183; South Korea) 2013--2014 <br />
 *Korea Information Society Development Institute
 
-*FourThirtyThree*, Data Anlysist (Seoul $\cdot$ South Korea) 2012--2013
+*FourThirtyThree*, Data Anlysist (Seoul  &#183; South Korea) 2012--2013
 
-*Seoul National University*, Postdoc. School of Economics (Seoul $\cdot$ South Korea) 2011--2012
+*Seoul National University*, Postdoc. School of Economics (Seoul  &#183; South Korea) 2011--2012
 
 # Education
 
@@ -76,5 +65,5 @@ R, Mathematica, $\rm \LaTeX$
 ## Familiar
 Python, NetLogo, Docker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjkyNzM3NV19
+eyJoaXN0b3J5IjpbMjAzNzc1NzY4Nl19
 -->
