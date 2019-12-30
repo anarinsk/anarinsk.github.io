@@ -36,11 +36,11 @@ Lead (acting), Data Center
 *Kyunghee University*, Lecturer, Humanitas College, 2013 -- 2013 
 &nbsp; Lecture: Game Theory, Evolution, and Cooperation
 
-*Seoul National University*, Lecturer, Graduate School of Convergence Science and Technology, 2011 </br
+*Seoul National University*, Lecturer, Graduate School of Convergence Science and Technology, 2011
 &nbsp; Lecture: Understanding Digital Games
 
 *Seoul National University*, Lecturer, School of Economics, 2004--2010 
-Lecture: Principle of Economics, Microeconomic Theory
+&nbsp; Lecture: Principle of Economics, Microeconomic Theory
 
 
 ## Publications
@@ -116,6 +116,6 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzOTc3OTE2LC0yMDU1MDQ5NjA1LC0xND
-k1NTQ5OTIwXX0=
+eyJoaXN0b3J5IjpbLTUyMTEyNTIzMSwtMjA1NTA0OTYwNSwtMT
+Q5NTU0OTkyMF19
 -->
