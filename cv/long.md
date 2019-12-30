@@ -8,10 +8,10 @@ Lead (acting), Data Center
 ## Education
 
 *Seoul National University*, Ph.D. School of Economics 2010 
-Thesis: Three Essays on Evolutionary Game Theory and Its Economic Applications 
+&nbsp; Thesis: "Three Essays on Evolutionary Game Theory and Its Economic Applications"
 
 *Seoul National University*, M.A. School of Economics 1997 
-Thesis: An Critical Inquiry on New Institutional Economics  
+&nbsp; Thesis: "An Critical Inquiry on New Institutional Economics" 
 
 *Seoul National University*, B.A. School of Economics 1995
 
@@ -31,13 +31,13 @@ Thesis: An Critical Inquiry on New Institutional Economics
 *Seoul National University*, Postdoc., School of Economics (Seoul &#183; South Korea) 2011--2012
 
 *Seoul National University*, Lecturer, Information and Multimedia Culture, 2007 -- 2013 </br>
-Lecture: Economics and Management of Cotent, Serious Gamming
+&nbsp; Lecture: Economics and Management of Cotent, Serious Gamming
 
-*Kyunghee University*, Lecturer, Humanitas College, 2013 -- 2013 </br>
-Lecture: Game Theory, Evolution, and Cooperation
+*Kyunghee University*, Lecturer, Humanitas College, 2013 -- 2013 
+&nbsp; Lecture: Game Theory, Evolution, and Cooperation
 
-*Seoul National University*, Lecturer, Graduate School of Convergence Science and Technology, 2011 </br>
-Lecture: Understanding Digital Games
+*Seoul National University*, Lecturer, Graduate School of Convergence Science and Technology, 2011 </br
+&nbsp; Lecture: Understanding Digital Games
 
 *Seoul National University*, Lecturer, School of Economics, 2004--2010 
 Lecture: Principle of Economics, Microeconomic Theory
@@ -116,6 +116,6 @@ Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUwNDk2MDUsLTE0OTU1NDk5MjBdfQ
-==
+eyJoaXN0b3J5IjpbODAzOTc3OTE2LC0yMDU1MDQ5NjA1LC0xND
+k1NTQ5OTIwXX0=
 -->
