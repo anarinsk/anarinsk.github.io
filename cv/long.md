@@ -3,7 +3,7 @@
 
 Lead(acting), Data Center 
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
-[mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183;[blog](http://lostineconomics.com) &vert; updated: December 30, 2019
+[mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183; [blog](http://lostineconomics.com) &vert; updated: December 30, 2019
 
 # Education
 
@@ -114,5 +114,5 @@ R, Mathematica, $\rm \LaTeX$
 ## Familiar
 Python, NetLogo, Docker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU1NDk5MjBdfQ==
+eyJoaXN0b3J5IjpbLTI5MzEzNDk5NiwtMTQ5NTU0OTkyMF19
 -->
