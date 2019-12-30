@@ -1,33 +1,34 @@
 
 # Jun Sok Huhh
 
-Lead, I&I Divisio 
+Lead(acting), Data Center 
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
 [mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183;[blog](http://lostineconomics.com) &vert; updated: December 30, 2019
+
 # Education
 
-*Seoul National University*, Ph.D. School of Economics 2010 </br>
+*Seoul National University*, Ph.D. School of Economics 2010 
 Thesis: Three Essays on Evolutionary Game Theory and Its Economic Applications 
 
-*Seoul National University*, M.A. School of Economics 1997 </br>
+*Seoul National University*, M.A. School of Economics 1997 
 Thesis: An Critical Inquiry on New Institutional Economics  
 
 *Seoul National University*, B.A. School of Economics 1995
 
 # Employment (Industry)
 
-*NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi $\cdot$ South Korea) 2018.03--present 
+*NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi &#183; South Korea) 2018.03--present 
 
-*NCSOFT*, Lead, R&I Team (Seongnam Gyeonggi $\cdot$ South Korea) 2014--2018.03
+*NCSOFT*, Lead, R&I Team (Seongnam Gyeonggi &#183; South Korea) 2014--2018.03
 
-*KISDI* \*, Senior Researcher (Jinchun Chungchungbuk $\cdot$ South Korea) 2013--2014 </br> 
+*KISDI* \*, Senior Researcher (Jinchun Chungchungbuk &#183; South Korea) 2013--2014 </br> 
 *Korea Information Society Development Institute
 
-*FourThirtyThree*, Data Anlysist (Seoul $\cdot$ South Korea) 2012--2013
+*FourThirtyThree*, Data Anlysist (Seoul &#183; South Korea) 2012--2013
 
 # Employment (Academy)
 
-*Seoul National University*, Postdoc., School of Economics (Seoul $\cdot$ South Korea) 2011--2012
+*Seoul National University*, Postdoc., School of Economics (Seoul &#183; South Korea) 2011--2012
 
 *Seoul National University*, Lecturer, Information and Multimedia Culture, 2007 -- 2013 </br>
 Lecture: Economics and Management of Cotent, Serious Gamming
@@ -113,5 +114,5 @@ R, Mathematica, $\rm \LaTeX$
 ## Familiar
 Python, NetLogo, Docker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjQxOTkwM119
+eyJoaXN0b3J5IjpbLTE0OTU1NDk5MjBdfQ==
 -->
