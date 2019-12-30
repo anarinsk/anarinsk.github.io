@@ -1,11 +1,11 @@
 
-# Jun Sok Huhh
+# Jun Sok Huhh / 허준석
 
 Lead (acting), Data Center 
 12 Daewangpangyo-ro 644beon-gil &#183; NCSOFT &#183; Seongnam Gyeonggi, South Korea 13494 
 [mail4work](junsokhuhh@ncsoft.com) &#183;[mail4personal](anarinsk@gmail.com) &#183;[github](https://github.com/anarinsk) &#183; [blog](http://lostineconomics.com) &vert; updated: December 30, 2019
 
-# Education
+## Education
 
 *Seoul National University*, Ph.D. School of Economics 2010 
 Thesis: Three Essays on Evolutionary Game Theory and Its Economic Applications 
@@ -15,7 +15,7 @@ Thesis: An Critical Inquiry on New Institutional Economics
 
 *Seoul National University*, B.A. School of Economics 1995
 
-# Employment (Industry)
+## Employment (Industry)
 
 *NCSOFT*, Lead, I&I Division (Seongnam Gyeonggi &#183; South Korea) 2018.03--present 
 
@@ -26,7 +26,7 @@ Thesis: An Critical Inquiry on New Institutional Economics
 
 *FourThirtyThree*, Data Anlysist (Seoul &#183; South Korea) 2012--2013
 
-# Employment (Academy)
+## Employment (Academy)
 
 *Seoul National University*, Postdoc., School of Economics (Seoul &#183; South Korea) 2011--2012
 
@@ -43,9 +43,9 @@ Lecture: Understanding Digital Games
 Lecture: Principle of Economics, Microeconomic Theory
 
 
-# Publications
+## Publications
 
-## Books and Book Chapters 
+### Books and Book Chapters 
 
 Jun Sok Huhh. 2013. "Who’s Afraid of Social Games (Chapter 7)." *Game Phobia* [Korean language]. Communication Books. [Korean language]
 
@@ -55,7 +55,7 @@ Jun Sok Huhh, Larissa Hjorth and Bora Na. 2009. "Games of gender: a case study o
 
 Jun Sok Huhh. 2006. *Business of Fun–Economics of computer games industry*. ChekSeSang. [Korean language]
 
-## Journal Articles
+### Journal Articles
 
 Jun Sok Huhh and Jeong Wook Byun. 2017. "North Korea’s Nuclear Weapon Development and South Korea’s Strategic Reaction: A Signaling Game Approach." *Ehwa Journal of Social Sciences* 33(1): 107--142. [Korean language]
 
@@ -75,9 +75,9 @@ Jun Sok Huhh. 1998. "On Theoretical Foundation of New Institutionalist Economics
 
 Jun Sok Huhh and Jung-Kyu Choi. 1998. "Review of Radical Institutionalist economics." *Trend and Perspective* 37. [Korean language]
 
-# Research Interests 
+## Research Interests 
 
-## Graduate Work 
+### Graduate work 
 
 In my doctoral thesis, methods of evolutionary game theory and its dynamics are applied to some economic theories. This consists of three independently-themed papers. Each title is 
 
@@ -85,11 +85,11 @@ In my doctoral thesis, methods of evolutionary game theory and its dynamics are 
   a. Evolutionary dynamics on social ties
   a. Replicator dynamics of population with players’ differing abilities.
 
-## Industry Works
+### Industry works and projects
 
 In NCSOFT, my tasks includes designing ’(online) game’ economy, data analysis on log data of online games, and planning corpoerate strategies with analysis on economic situation. In KISDI, I worked mainly on competition policy for telecommunication business. My main topics were tariff policy of mobile communications and antitrust issues of Korean online search engine.
 
-## Other Topics 
+### Other topics 
 
 Another parts of my research focuses on online games and their economic impacts on society. Most of my works are based on the specific context of Korean online gaming including effects of RMT (Real-Money Trading) on online gaming
 service and individual gamers. Currently progressing researches are:
@@ -97,7 +97,7 @@ service and individual gamers. Currently progressing researches are:
   a. Relationship among game design, players’ behaviors and RMT
   a. User data analysis of Korean online/mobile gaming
 
-# Honors 
+## Honors 
 
 Best Dissertation of The College of Social Sciences of Seoul National University of the Year 2010
 
@@ -106,15 +106,15 @@ Best Paper for Young Economists Competition hosted by Korean Economic Associatio
 *Il-ju* Foundation Graduate Scholarship 1997--1999
 
 
-# Technical Skills 
+## Technical Skills 
 
-## Proficient
+### Proficient
 R, Mathematica, $\rm \LaTeX$
 
-## Familiar
+### Familiar
 Python, NetLogo, Docker
 <br>
 :house:[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDYzMzE4NiwtMTQ5NTU0OTkyMF19
+eyJoaXN0b3J5IjpbMTUyMTc3MjE4NywtMTQ5NTU0OTkyMF19
 -->
