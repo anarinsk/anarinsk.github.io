@@ -4,6 +4,7 @@
 **Jun Sok Huhh** 허준석 &#124; PhD in Economics &#124; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &#124; [email](mailto:anarinsk@gmail.com)
 
 ## Updated
+* 20191231 [Four Fundamental Space of Linear Algebra](https://anarinsk.github.io/lie-4_spaces_LA/)
 * 20191230 [Five (Deadly!) Questions on Regression and PCA](https://anarinsk.github.io/lie-qa_reg_pca/)
  * 20191224 [PageRank as Markov Chain](https://anarinsk.github.io/lie-pagerank)
  * 20191220 [Perron&#8208;Frobenius Theorem, part 2](https://anarinsk.github.io/lie-pf2/)
@@ -53,11 +54,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMjExNzA2LDEwMTA2NDczMCwtODU2MD
-U5NTk3LDE4OTUwOTQ2ODYsLTkzNTQyMjc0OSwtNDk3MTA2MTg3
-LDg1MDI2MzQ2MywxMjY3NjM0MjU0LC05MzY3MDEwNSw1MDk3NT
-YyMzEsLTExNTAwNTY2MDIsOTEwNTUxNDQxLDE3NzkzNzIxMTcs
-LTExODYwODg3NDcsLTM1MDI2MjI2NywtMTE0Njc0MTQyNiwxNT
-IwNjI3NDU5LDEzNzk2NTg2MDQsMTUyMDYyNzQ1OSwtMTk4MDQ1
-OTYyNV19
+eyJoaXN0b3J5IjpbMjE0Njk2NjY0MSw4MjAyMTE3MDYsMTAxMD
+Y0NzMwLC04NTYwNTk1OTcsMTg5NTA5NDY4NiwtOTM1NDIyNzQ5
+LC00OTcxMDYxODcsODUwMjYzNDYzLDEyNjc2MzQyNTQsLTkzNj
+cwMTA1LDUwOTc1NjIzMSwtMTE1MDA1NjYwMiw5MTA1NTE0NDEs
+MTc3OTM3MjExNywtMTE4NjA4ODc0NywtMzUwMjYyMjY3LC0xMT
+Q2NzQxNDI2LDE1MjA2Mjc0NTksMTM3OTY1ODYwNCwxNTIwNjI3
+NDU5XX0=
 -->
