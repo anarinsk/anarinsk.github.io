@@ -21,7 +21,6 @@
   * 20190718 [Dot product](https://anarinsk.github.io/lie-dot_product/)
   * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
   * 20190517 [Math behind PCA](https://anarinsk.github.io/lie-math_pca/)
-  * 20190713 [Poisson from Binomial](https://anarinsk.github.io/lie-poisson/)
   * 20190513 [One-shot Econ: 장학퀴즈로 본 젠더 행동](https://brunch.co.kr/@anarinsk/24)
   * 20190509 [One-shot Econ: 직장 임금격차의 뜻하지 않은 효과](https://brunch.co.kr/@anarinsk/23)
   * 20190504 [Mathematics of Support Vector Machine](https://anarinsk.github.io/lie-math_svm/)
@@ -55,11 +54,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA5NDU0NTksLTEwMzk0ODI3NzIsMj
-Y3MTQxMDA4LDgyMDIxMTcwNiwxMDEwNjQ3MzAsLTg1NjA1OTU5
-NywxODk1MDk0Njg2LC05MzU0MjI3NDksLTQ5NzEwNjE4Nyw4NT
-AyNjM0NjMsMTI2NzYzNDI1NCwtOTM2NzAxMDUsNTA5NzU2MjMx
-LC0xMTUwMDU2NjAyLDkxMDU1MTQ0MSwxNzc5MzcyMTE3LC0xMT
-g2MDg4NzQ3LC0zNTAyNjIyNjcsLTExNDY3NDE0MjYsMTUyMDYy
-NzQ1OV19
+eyJoaXN0b3J5IjpbLTE5NTA4Njk4MDYsLTExNDA5NDU0NTksLT
+EwMzk0ODI3NzIsMjY3MTQxMDA4LDgyMDIxMTcwNiwxMDEwNjQ3
+MzAsLTg1NjA1OTU5NywxODk1MDk0Njg2LC05MzU0MjI3NDksLT
+Q5NzEwNjE4Nyw4NTAyNjM0NjMsMTI2NzYzNDI1NCwtOTM2NzAx
+MDUsNTA5NzU2MjMxLC0xMTUwMDU2NjAyLDkxMDU1MTQ0MSwxNz
+c5MzcyMTE3LC0xMTg2MDg4NzQ3LC0zNTAyNjIyNjcsLTExNDY3
+NDE0MjZdfQ==
 -->
