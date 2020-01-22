@@ -4,7 +4,7 @@
 **Jun Sok Huhh** 허준석 &#124; PhD in Economics &#124; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &#124; [email](mailto:anarinsk@gmail.com)
 
 ## Updated
-* 20200122 [Paper Summary: ](https://anarinsk.github.io/aps-college_wealth/)
+* 20200122 [Paper Summary: The College Wealth Divide](https://anarinsk.github.io/aps-college_wealth/)
 * 20200107 [Matrix Decomposition](https://anarinsk.github.io/lie-matrix_decomp/)
 * 20191231 [Four Fundamental Spaces of Linear Algebra](https://anarinsk.github.io/lie-4_spaces_LA/)
 * 20191230 [Five (Deadly!) Questions on Regression and PCA](https://anarinsk.github.io/lie-qa_reg_pca/)
@@ -55,7 +55,7 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzQyNDMyNSwtMTk1MDg2OTgwNiwtMT
+eyJoaXN0b3J5IjpbMTQxNTE4NzI2MywtMTk1MDg2OTgwNiwtMT
 E0MDk0NTQ1OSwtMTAzOTQ4Mjc3MiwyNjcxNDEwMDgsODIwMjEx
 NzA2LDEwMTA2NDczMCwtODU2MDU5NTk3LDE4OTUwOTQ2ODYsLT
 kzNTQyMjc0OSwtNDk3MTA2MTg3LDg1MDI2MzQ2MywxMjY3NjM0
