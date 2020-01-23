@@ -1,4 +1,4 @@
-
+ [er 1](http://
 ## About 
   
 **Jun Sok Huhh** 허준석 &#124; PhD in Economics &#124; CV ([Short](https://anarinsk.github.io/cv/short.html) or [Long](https://anarinsk.github.io/cv/long.html)) &#124; [email](mailto:anarinsk@gmail.com)
@@ -33,21 +33,22 @@
   * 20190315 [One-shot Econ: 인센티브를 실증하다](https://brunch.co.kr/@anarinsk/16)
   * 20190226 [One-shot Econ: 아이와 가족의 행복](https://brunch.co.kr/@anarinsk/13)
   * 20190220 [One-shot Econ: 인과관계 이렇게 봅니다!](https://brunch.co.kr/@anarinsk/12)
-  * 20190217 [One-shot Econ: 백신 접종이 왜 필요한가](https://brunch.co.kr/@anarinsk/10)
+  * 20190217 [One-shot Econ: 백신 접종이 왜 필요한가](https://brunch.co.kr/@anarinsk/10](https://anri.github.io/lie](https://anari.github.io/lie)
   * 20190214 [One-shot Econ: 푸드스탬프의 경제학](https://brunch.co.kr/@anarinsk/9)
-  * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/)
-  * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
+  * 20181210 [Causality part 1](https://anarinsk.github.io/lie-causality_1/anarinskublir/causality/causality_part1matsvm/)
+  * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/logtrans)
   * 20181124 [Shannon's entropy](https://anarinsk.github.io/lie-entropy/)
   * 20181012 [p&#8208;해킹](https://anarinsk.github.io/lie-p_hacking/)
-  * 20180905 [Writing on Github](https://anarinsk.github.io/lie-writing_github/)
-  * 20181125 [Using Python with Visual Studio Code](https://anarinsk.github.io/lie-conda_vsc/)
-  * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-r_jupyter/)
-  * 20181001 [댄 에리얼리, "부의 감각"](https://anarinsk.github.io/lie-ariely_ds/)
+  * 20180905 [Writing on Github](https://anarinsk.github.io/lie-wariting_github/)
+  * 20181125 [Using Python with Visual Studio Code7](https://anarinsk.github.io/lie-conda_vscbachet/)
+  * 20180905 [R with JupyterWriting on Github](https://anarinsk.github.io/lie-r_jupyter/)
+  * 20181001 [댄 에리얼리, "부의 감각"writing_github/)
+  * 20180905 [R with Jupyter](https://anarinsk.github.io/lie-ariely_ds/r_jupyter)
   * 20180904 [천분위 조세자료 (심상정 의원)](https://github.com/anarinsk/simsangjung/blob/master/README.md)
   * 20180822 [선관위 정당 보조금 내역 분석](https://github.com/anarinsk/korparty_subsidy/blob/master/README.md)
   * 20180814 [R 사용자를 위한 효과적인 패키지 및 폴더 관리](https://anarinsk.github.io/lie-head_r/)
-  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinsk.github.io/lie-log_trans/)
-  * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었나?](https://anarinsk.github.io/bg-effect/)
+  * 20180808 [회귀 분석에서 로그 변환 시 계수 해석](https://anarinsk.github.io/lie-log_trans/anarinskitians/formation/2018-08-07-logwithlevel.nb.html)
+  * 20180620 [배틀그라운드 모바일은 다른 게임 매출에 영향을 주었미쳤나?](https://anarinsk.github.io/bg-effect/)
   * 20180612 [가계동향조사 소득자료로 본 100 분위 소득 논란에 관해서](https://anarinsk.github.io/MDIS/) 
 
 ## Site History
@@ -55,11 +56,11 @@
   1. 2017XXXX [Version 1](http://lostineconomics.netlify.com) was built. 
   2. 20180611 Version 2 is open (ver. 1 is not upated anymore).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTE4NzI2MywtMTk1MDg2OTgwNiwtMT
-E0MDk0NTQ1OSwtMTAzOTQ4Mjc3MiwyNjcxNDEwMDgsODIwMjEx
-NzA2LDEwMTA2NDczMCwtODU2MDU5NTk3LDE4OTUwOTQ2ODYsLT
-kzNTQyMjc0OSwtNDk3MTA2MTg3LDg1MDI2MzQ2MywxMjY3NjM0
-MjU0LC05MzY3MDEwNSw1MDk3NTYyMzEsLTExNTAwNTY2MDIsOT
-EwNTUxNDQxLDE3NzkzNzIxMTcsLTExODYwODg3NDcsLTM1MDI2
-MjI2N119
+eyJoaXN0b3J5IjpbLTM3NzIwOTc3MSwxNDE1MTg3MjYzLC0xOT
+UwODY5ODA2LC0xMTQwOTQ1NDU5LC0xMDM5NDgyNzcyLDI2NzE0
+MTAwOCw4MjAyMTE3MDYsMTAxMDY0NzMwLC04NTYwNTk1OTcsMT
+g5NTA5NDY4NiwtOTM1NDIyNzQ5LC00OTcxMDYxODcsODUwMjYz
+NDYzLDEyNjc2MzQyNTQsLTkzNjcwMTA1LDUwOTc1NjIzMSwtMT
+E1MDA1NjYwMiw5MTA1NTE0NDEsMTc3OTM3MjExNywtMTE4NjA4
+ODc0N119
 -->
